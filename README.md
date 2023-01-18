@@ -1,2 +1,3 @@
-# realTime_repository
-RealTimeEmbedded_Project
+# Real Time Embedded Programming
+
+### Raspberry Pi 
