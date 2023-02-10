@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/test_clion.iml" filepath="$PROJECT_DIR$/.idea/test_clion.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/FAST LED_MUSIC VISUALIZER​.iml" filepath="$PROJECT_DIR$/.idea/FAST LED_MUSIC VISUALIZER​.iml" />
+>>>>>>> 3dcaa3f22a515a1bed8c88de8d771715762c3152
     </modules>
   </component>
 </project>
