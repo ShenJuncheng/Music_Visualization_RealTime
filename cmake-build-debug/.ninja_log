@@ -1,5 +1,4 @@
 # ninja log v5
-0	483	6977628517893729	CMakeFiles/test_clion.dir/main.cpp.obj	6bc75d2904c6a939
-486	884	6977628521818805	test_clion.exe	b3d917996649c0cf
 2	444	6977634107575052	CMakeFiles/test_clion.dir/main.cpp.obj	9aad76534c835962
-445	845	6977634111524343	test_clion.exe	b3d917996649c0cf
+689	1381	6982087322427759	test_clion.exe	cef4561af16e05e1
+1	687	6982087315751603	CMakeFiles/test_clion.dir/test_keyboard.cpp.obj	3f8f6f9a84ce5fba
