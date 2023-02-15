@@ -1,2 +1,4 @@
 # ninja log v5
-382	926	6982097466968233	test_clion.exe	cef4561af16e05e1
+2	444	6977634107575052	CMakeFiles/test_clion.dir/main.cpp.obj	9aad76534c835962
+689	1381	6982087322427759	test_clion.exe	cef4561af16e05e1
+1	687	6982087315751603	CMakeFiles/test_clion.dir/test_keyboard.cpp.obj	3f8f6f9a84ce5fba
