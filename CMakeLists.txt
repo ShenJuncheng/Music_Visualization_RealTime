@@ -3,4 +3,4 @@ project(test_clion)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(test_clion test_keyboard.cpp)
+add_executable(test_clion test_keyboard.cpp )
