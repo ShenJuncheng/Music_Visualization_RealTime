@@ -3,7 +3,10 @@
 //
 
 #include <stdio.h>
+#include <iostream>
 #include <wiringPi.h>
+
+using namespace std;
 
 void test_led();
 
@@ -13,6 +16,7 @@ int main()
 }
 
 void test_led() {
+    cout << "Hello, World!" << endl;
     wiringPiSetup();
     pinMode(3,OUTPUT);
     while(1)
@@ -22,7 +26,8 @@ void test_led() {
         digitalWrite(3,HIGH);
         delay(1000);
     }
-//    return 0;
+//    cout<<"hello world";
+    return ;
 }
 
 
