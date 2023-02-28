@@ -52,6 +52,7 @@ build cmake_object_order_depends_target_test_clion: phony || CMakeFiles/test_cli
 build CMakeFiles/test_clion.dir/test_keyboard.cpp.obj: CXX_COMPILER__test_clion_Debug E$:/OneDrive$ -$ University$ of$ Glasgow/test_clion/test_keyboard.cpp || cmake_object_order_depends_target_test_clion
   DEP_FILE = CMakeFiles\test_clion.dir\test_keyboard.cpp.obj.d
   FLAGS = -g -std=gnu++11
+  INCLUDES = -IE:/OneDrive -I"E:/OneDrive - University of Glasgow/test_clion/-" -I"E:/OneDrive - University of Glasgow/test_clion/University" -I"E:/OneDrive - University of Glasgow/test_clion/of" -I"E:/OneDrive - University of Glasgow/test_clion/Glasgow/test_clion/lib/DHT-sensor-library-master/include"
   OBJECT_DIR = CMakeFiles\test_clion.dir
   OBJECT_FILE_DIR = CMakeFiles\test_clion.dir
 

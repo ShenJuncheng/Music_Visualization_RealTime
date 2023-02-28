@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <iostream>
-
+#include "DHT.h"  // https://www.cnblogs.com/ZhYQ-Note/p/5912827.html
 int DHpin = 8; // input/output pin
 byte dat[5];
 byte read_data()
