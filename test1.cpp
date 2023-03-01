@@ -3,5 +3,5 @@
 int main() {
     std::cout << "Hello, World!" << std::endl;
     return 0;
-    a=1
+    a=1;b=2;
 }
