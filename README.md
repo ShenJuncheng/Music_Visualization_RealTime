@@ -7,4 +7,12 @@
 2.Operating System: Raspberry Pi OS  
 3.Project name: Music visualization  
 4.group members: Juncheng, Yiwei, Chengkun, Jinfeng  
-5. <font color="00dd00">test <font color="00dd00">
+5. <font color="00dd00">test <font color="00dd00">  
+
+6. *斜体字*
+7. **粗体字**
+8. ***加粗斜体字***  
+9.table  
+| table |first column |second column|  
+| ----- | :--------: | :---------: |  
+| second column | 
