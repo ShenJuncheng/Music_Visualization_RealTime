@@ -7,7 +7,7 @@
 #include <wiringPi.h>
 #include <pcf8591.h>
 #define makerobo_PCF 120
-int main （void）
+int main (void)
 {
 int sound_value;
 wiringPiSetup ();
