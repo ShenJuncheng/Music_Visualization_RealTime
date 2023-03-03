@@ -19,3 +19,7 @@ linux_github  https://blog.csdn.net/sasafa/article/details/125699014
 版本检测  git --version
 git clone + ssh路径/https路径   #拷贝一份远程仓库代码到本地
 
+sudo apt-get install g++
+g++ test.cpp -o test
+sudo ./test
+
