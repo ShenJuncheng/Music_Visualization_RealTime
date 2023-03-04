@@ -7,6 +7,11 @@ wiringpi元件驱动
 
 
 reference:
+* https://github.com/albanjoseph/Signapse
+
+reference(markdown):
+* https://www.jianshu.com/p/335db5716248
+---
 task one；声音传感器的接收与控制
           
 task two: 超声波传感器
