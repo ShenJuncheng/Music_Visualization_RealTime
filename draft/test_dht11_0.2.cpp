@@ -9,7 +9,7 @@
 
 #include <wiringPi.h>
 
-typedef unsigned char uint8;
+typedef unsigned char uint8;  //  typedef 重命名 char 为 uint8
 typedef unsigned int  uint16;
 typedef unsigned long uint32;
 

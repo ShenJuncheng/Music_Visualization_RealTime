@@ -32,5 +32,11 @@ sudo ./test
 
 
 ## qt
-[qt项目的创建](https://blog.csdn.net/weixin_53312997/article/details/128631504?ops_request_misc=&request_id=&biz_id=102&utm_term=qt%E9%A1%B9%E7%9B%AE&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-7-128631504.142^v73^control,201^v4^add_ask,239^v2^insert_chatgpt&spm=1018.2226.3001.4187)
+[qt项目的创建](https://blog.csdn.net/weixin_53312997/article/details/128631504?ops_request_misc=&request_id=&biz_id=102&utm_term=qt%E9%A1%B9%E7%9B%AE&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-7-128631504.142^v73^control,201^v4^add_ask,239^v2^insert_chatgpt&spm=1018.2226.3001.4187)  
+qt项目一般也是c++项目或者c++/QML项目
 
+
+---
+## audio
+[tutorial](https://blog.csdn.net/Tang_Chuanlin/article/details/84567395)  
+[USB Audio Capture Card Grabber](https://www.amazon.co.uk/gp/buy/thankyou/handlers/display.html?purchaseId=204-7367631-7223508&ref_=chk_typ_browserRefresh&isRefresh=1)
