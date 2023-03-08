@@ -51,3 +51,4 @@ qt项目一般也是c++项目或者c++/QML项目
   cd downloads
   mkdir build
   dir
+* [git install](https://www.qx6a.com/87815.html)
