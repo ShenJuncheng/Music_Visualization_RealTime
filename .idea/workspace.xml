@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6d87ab0-c098-403c-af8b-d0a5c5a55689" name="Changes" comment="&#10;the 5 has been inserted" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Jinfeng_Lyu" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c6485db7-3663-4d92-87a6-72c365a2f88e" />
+        <option name="url" value="https://github.com/ShenJuncheng/Music_Visualization_RealTime.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MQ59JHtQbfw55cpMzpIhdYgy3s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/lvjin/OneDrive/桌面/test_pull",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6d87ab0-c098-403c-af8b-d0a5c5a55689" name="Changes" comment="" />
+      <created>1677686812742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677686812742</updated>
+      <workItem from="1677686813897" duration="160000" />
+      <workItem from="1677686986370" duration="225000" />
+      <workItem from="1677687223993" duration="3875000" />
+      <workItem from="1677691153057" duration="9000" />
+      <workItem from="1678117936336" duration="1791000" />
+      <workItem from="1678120321333" duration="1341000" />
+      <workItem from="1678200736702" duration="1269000" />
+      <workItem from="1678289339784" duration="1657000" />
+      <workItem from="1678291424139" duration="702000" />
+    </task>
+    <task id="LOCAL-00001" summary="&#10;test">
+      <created>1677687087680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677687087680</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&#10;test">
+      <created>1677687285280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677687285280</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&#10;test">
+      <created>1677687302805</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677687302805</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&#10;test">
+      <created>1677687986532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677687986532</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&#10;test">
+      <created>1677688076778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677688076778</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&#10;test">
+      <created>1677688227529</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677688227529</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&#10;the 5 has been inserted">
+      <created>1677688321451</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677688321451</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&#10;the 5 has been inserted">
+      <created>1677688640101</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677688640101</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&#10;the 5 has been inserted">
+      <created>1677688905261</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677688905261</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&#10;the 5 has been inserted">
+      <created>1677689091784</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677689091784</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&#10;the 5 has been inserted">
+      <created>1677689723230</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677689723230</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&#10;the 5 has been inserted">
+      <created>1677690083818</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677690083818</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&#10;the 5 has been inserted">
+      <created>1677690959169</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677690959169</updated>
+    </task>
+    <task id="LOCAL-00014" summary="&#10;the 5 has been inserted">
+      <created>1678291779525</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678291779525</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Jinfeng_Lyu" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&#10;test" />
+    <MESSAGE value="&#10;the 5 has been inserted" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;the 5 has been inserted" />
+  </component>
+</project>
