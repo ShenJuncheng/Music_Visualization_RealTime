@@ -45,3 +45,9 @@ qt项目一般也是c++项目或者c++/QML项目
 ## c++ unit test
 * reference
   https://blog.csdn.net/u013288190/article/details/120151747
+* [cmake](https://blog.csdn.net/weixin_43986229/article/details/128027840)
+* [gtest](https://blog.csdn.net/weixin_42405819/article/details/119463384)
+* cmd
+  cd downloads
+  mkdir build
+  dir
