@@ -1,10 +1,6 @@
 # Music_Visualization_RealTime
 RealTimeEmbedded_Project
 
-### Raspberry Pi
-1.Raspberry Version: 4 Model B 32GB
-2.Operating System: Raspberry Pi OS
-
 https://github.com/WiringPi/WiringPi/tree/master/wiringPi
 wiringpi元件驱动
 
