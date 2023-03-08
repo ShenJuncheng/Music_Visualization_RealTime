@@ -1,7 +1,8 @@
 #include <iostream>
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-    a=1;b=2;
+int Factorial(int n) {
+int result = 1;
+for(int i=1, i<=n, i++)
+    {result*=i;}
+return result;
 }
