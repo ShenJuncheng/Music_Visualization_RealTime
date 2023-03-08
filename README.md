@@ -1,6 +1,10 @@
 # Music_Visualization_RealTime
 RealTimeEmbedded_Project
 
+### Raspberry Pi
+1.Raspberry Version: 4 Model B 32GB
+2.Operating System: Raspberry Pi OS
+
 https://github.com/WiringPi/WiringPi/tree/master/wiringPi
 wiringpi元件驱动
 
@@ -40,3 +44,8 @@ qt项目一般也是c++项目或者c++/QML项目
 ## audio
 [tutorial](https://blog.csdn.net/Tang_Chuanlin/article/details/84567395)  
 [USB Audio Capture Card Grabber](https://www.amazon.co.uk/gp/buy/thankyou/handlers/display.html?purchaseId=204-7367631-7223508&ref_=chk_typ_browserRefresh&isRefresh=1)
+
+---
+## c++ unit test
+* reference
+  https://blog.csdn.net/u013288190/article/details/120151747
