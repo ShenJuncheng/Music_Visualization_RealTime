@@ -1,3 +1,5 @@
 # ninja log v5
-414	1107	6998400541780516	test_clion.exe	e412eff88bdc848d
-1	413	6998400534889321	CMakeFiles/test_clion.dir/draft/test_keyboard.cpp.obj	cbb91440f18ad944
+1344	2384	7000643191863001	test_clion.exe	e412eff88bdc848d
+2	1343	7000643181549182	CMakeFiles/test_clion.dir/draft/test_keyboard.cpp.obj	cbb91440f18ad944
+0	379	7000659184943812	CMakeFiles/test_clion.dir/draft/test_keyboard.cpp.obj	cbb91440f18ad944
+380	693	7000659187978638	test_clion.exe	e412eff88bdc848d
