@@ -6,5 +6,3 @@ TEST(add,positive_number) {EXPECT_EQ(3,add(1,2));}
 TEST(add,negative_number) {EXPECT_EQ(-3,add(-1,-2));}
 int main() {::testing::InitGoogleTest();
 return RUN_ALL_TESTS();}
-
-
