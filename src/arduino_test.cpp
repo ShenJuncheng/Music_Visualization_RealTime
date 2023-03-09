@@ -11,7 +11,7 @@ int main (void)
 {
 int sound_value;
 wiringPiSetup();
-pcf8591Setup(makerobo_PCE, 0x48);
+pcf8591Setup(makerobo_PCF, 0x48);
 while(1)
 {
 
