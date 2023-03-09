@@ -40,8 +40,9 @@ sudo ./test
 
 ## qt
 [qt项目的创建](https://blog.csdn.net/weixin_53312997/article/details/128631504?ops_request_misc=&request_id=&biz_id=102&utm_term=qt%E9%A1%B9%E7%9B%AE&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-7-128631504.142^v73^control,201^v4^add_ask,239^v2^insert_chatgpt&spm=1018.2226.3001.4187)  
-qt项目一般也是c++项目或者c++/QML项目
-
+qt项目一般也是c++项目或者c++/QML项目  
+[1](https://blog.csdn.net/Yubing792289314/article/details/128944715)
+[2](https://hellogoogle.blog.csdn.net/article/details/104238649?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-2-104238649-blog-128944715.pc_relevant_vip_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-2-104238649-blog-128944715.pc_relevant_vip_default&utm_relevant_index=3)
 
 ---
 ## audio
