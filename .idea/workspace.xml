@@ -24,7 +24,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6d87ab0-c098-403c-af8b-d0a5c5a55689" name="Changes" comment="&#10;googletest an adding function has been tried.">
+    <list default="true" id="d6d87ab0-c098-403c-af8b-d0a5c5a55689" name="Changes" comment="googletest an adding function has been tried.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,46 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="Jinfeng_Lyu" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/Jinfeng_Lyu" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="Jinfeng_Lyu" />
@@ -148,7 +188,7 @@
       <workItem from="1678291424139" duration="4169000" />
       <workItem from="1678365008233" duration="88000" />
       <workItem from="1678381388823" duration="1142000" />
-      <workItem from="1678382558611" duration="1887000" />
+      <workItem from="1678382558611" duration="2336000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;test">
       <created>1677687087680</created>
@@ -332,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678384037782</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="googletest an adding function has been tried.">
+      <created>1678384714865</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1678384714865</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,6 +413,7 @@
     <MESSAGE value="&#10;the 5 has been inserted" />
     <MESSAGE value="&#10;googletest an adding function has been tried." />
     <MESSAGE value="Try googletest of Factorial Function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Try googletest of Factorial Function" />
+    <MESSAGE value="googletest an adding function has been tried." />
+    <option name="LAST_COMMIT_MESSAGE" value="googletest an adding function has been tried." />
   </component>
 </project>
