@@ -10,12 +10,12 @@
 int main (void)
 {
 int sound_value;
-wiringPiSetup ();
-pcf8591Setup (makerobo_PCE, Ox48);
+wiringPiSetup();
+pcf8591Setup(makerobo_PCE, 0x48);
 while(1)
 {
 
-sound_value = analogRead (makerobo_PCF + 0);
+sound_value = analogRead(makerobo_PCF + 0);
 printf("value: &d\n", sound_value);
 
 if (sound_value < 80){
