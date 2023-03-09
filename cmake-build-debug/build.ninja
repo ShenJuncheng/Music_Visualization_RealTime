@@ -49,12 +49,12 @@ cmake_ninja_workdir = E$:/OneDrive$ -$ University$ of$ Glasgow/test_clion/cmake-
 
 build cmake_object_order_depends_target_test_clion: phony || CMakeFiles/test_clion.dir
 
-build CMakeFiles/test_clion.dir/draft/test_keyboard.cpp.obj: CXX_COMPILER__test_clion_Debug E$:/OneDrive$ -$ University$ of$ Glasgow/test_clion/draft/test_keyboard.cpp || cmake_object_order_depends_target_test_clion
-  DEP_FILE = CMakeFiles\test_clion.dir\draft\test_keyboard.cpp.obj.d
+build CMakeFiles/test_clion.dir/src/test_keyboard.cpp.obj: CXX_COMPILER__test_clion_Debug E$:/OneDrive$ -$ University$ of$ Glasgow/test_clion/src/test_keyboard.cpp || cmake_object_order_depends_target_test_clion
+  DEP_FILE = CMakeFiles\test_clion.dir\src\test_keyboard.cpp.obj.d
   FLAGS = -g -std=gnu++11
   INCLUDES = -IE:/OneDrive -I"E:/OneDrive - University of Glasgow/test_clion/-" -I"E:/OneDrive - University of Glasgow/test_clion/University" -I"E:/OneDrive - University of Glasgow/test_clion/of" -I"E:/OneDrive - University of Glasgow/test_clion/Glasgow/test_clion/lib/DHT-sensor-library-master/include"
   OBJECT_DIR = CMakeFiles\test_clion.dir
-  OBJECT_FILE_DIR = CMakeFiles\test_clion.dir\draft
+  OBJECT_FILE_DIR = CMakeFiles\test_clion.dir\src
 
 
 # =============================================================================
@@ -64,7 +64,7 @@ build CMakeFiles/test_clion.dir/draft/test_keyboard.cpp.obj: CXX_COMPILER__test_
 #############################################
 # Link the executable test_clion.exe
 
-build test_clion.exe: CXX_EXECUTABLE_LINKER__test_clion_Debug CMakeFiles/test_clion.dir/draft/test_keyboard.cpp.obj
+build test_clion.exe: CXX_EXECUTABLE_LINKER__test_clion_Debug CMakeFiles/test_clion.dir/src/test_keyboard.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\test_clion.dir
