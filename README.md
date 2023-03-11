@@ -34,7 +34,7 @@ linux_github  https://blog.csdn.net/sasafa/article/details/125699014
 git clone + ssh路径/https路径   #拷贝一份远程仓库代码到本地
 
 sudo apt-get install g++
-g++ test.cpp -o test
+g++ test.cpp -o test -lwiringPi
 sudo ./test
 
 
