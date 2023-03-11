@@ -16,8 +16,8 @@ while(1)
 {
 
 sound_value = analogRead(makerobo_PCF + 0);
-printf("value: &d\n", sound_value);
-
+printf("test \n");
+printf("value: &d\n", sound_value);  //%d 输出的数据转化为十进制的一个数
 if (sound_value < 80){
 printf("Makerobo Voice In! \n");
 }
@@ -26,3 +26,4 @@ delay(100);
 return 0;
 }
 
+//https://baike.baidu.com/item/PCF8591/3916799?fr=aladdin
