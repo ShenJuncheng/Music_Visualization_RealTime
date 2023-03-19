@@ -3,10 +3,12 @@ RealTimeEmbedded_Project
 
 ##
 [install cmake g++](https://blog.csdn.net/lj19990824/article/details/120184708?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167829495016800225562760%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167829495016800225562760&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-120184708-null-null.142^v73^control,201^v4^add_ask,239^v2^insert_chatgpt&utm_term=CMake%E5%AE%89%E8%A3%85&spm=1018.2226.3001.4187)  
+```
 sudo apt-get install cmake  
 sudo apt-get install gcc  
 sudo apt-get install g++  
 cmake --version
+```
 
 https://github.com/WiringPi/WiringPi/tree/master/wiringPi
 wiringpi元件驱动
@@ -33,10 +35,11 @@ linux_github  https://blog.csdn.net/sasafa/article/details/125699014
 版本检测  git --version
 git clone + ssh路径/https路径   #拷贝一份远程仓库代码到本地
 
+```
 sudo apt-get install g++  
 g++ test.cpp -o test -lwiringPi  
 sudo ./test
-
+```
 
 ## qt
 [qt项目的创建](https://blog.csdn.net/weixin_53312997/article/details/128631504?ops_request_misc=&request_id=&biz_id=102&utm_term=qt%E9%A1%B9%E7%9B%AE&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-7-128631504.142^v73^control,201^v4^add_ask,239^v2^insert_chatgpt&spm=1018.2226.3001.4187)  
