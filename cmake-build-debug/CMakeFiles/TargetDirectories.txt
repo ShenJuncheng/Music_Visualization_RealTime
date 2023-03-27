@@ -1,3 +1,0 @@
-E:/OneDrive - University of Glasgow/test_clion/cmake-build-debug/CMakeFiles/test_clion.dir
-E:/OneDrive - University of Glasgow/test_clion/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/OneDrive - University of Glasgow/test_clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
