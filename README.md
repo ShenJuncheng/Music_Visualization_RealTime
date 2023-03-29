@@ -41,7 +41,8 @@ qt项目一般也是c++项目或者c++/QML项目
 [tutorial](https://blog.csdn.net/Tang_Chuanlin/article/details/84567395)  
 [USB Audio Capture Card Grabber](https://www.amazon.co.uk/gp/buy/thankyou/handlers/display.html?purchaseId=204-7367631-7223508&ref_=chk_typ_browserRefresh&isRefresh=1)
 
-
+## git
+[giit](https://blog.csdn.net/m0_64448813/article/details/128470202)
 ---
 <!-- PROJECT LOGO -->
 <br />
