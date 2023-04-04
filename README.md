@@ -100,8 +100,8 @@ For installation information check out our [installation guide](https://github.c
 # Demo Video
 [![Demo Video](https://github.com/albanjoseph/Signapse/blob/main/images/thumbnail_compress.gif)](https://youtu.be/wkhXxTbKkyo "Signapse - Demo Video!")
 
-# Demo Video
-[![Demo Video](https://github.com/albanjoseph/Signapse/blob/main/images/thumbnail_compress.gif)]
+# Embedded video
+[![Embedded video](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/draft/Embedded-video.gif)]
 
 # Social Media 🌐
 Keep up to date with Signapse! Find us on all our social channels:
