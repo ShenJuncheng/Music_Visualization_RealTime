@@ -134,7 +134,7 @@ Signapse is built using:
 Distributed under the MIT License. See [`LICENSE`](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/LICENSE) for more information.
 
 # Demo Video
-[![Demo Video](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/draft/Embedded%20video.mp4)]([https://youtu.be/wkhXxTbKkyo "Signapse - Demo Video!"](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/draft/Embedded%20video.mp4))
+<video src="[https://github.com/username/repo/raw/main/path/to/video.mp4](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/draft/Embedded%20video.mp4)" width="640" height="480" controls></video>
 
 
 # Contact Us 📞
