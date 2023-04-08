@@ -2,6 +2,7 @@
 #define LEDTHREAD_H
 // LEDThread.h
 #include <QThread>
+#include <QMutex>
 #include "WS2812B.h"
 
 class LEDThread : public QThread
@@ -10,20 +11,18 @@ class LEDThread : public QThread
 
 public:
     explicit LEDThread(QObject *parent = nullptr);
-//    enum LEDMode {
-//            RANDOM_COLOR,
-//            THEATER_CHASE,
-//            COLOR_WIPE
-//    };
 
-//    void setNextMode();
+    void startThread();
+    void stopThread();
 
 protected:
     void run() override;
 
+
 private:
     WS2812B *ws2812b;
-//    LEDMode currentMode;
+    QMutex mutex;
+    bool terminateFlag;
 };
 
 #endif // LEDTHREAD_H

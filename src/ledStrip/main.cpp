@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
 
     LEDThread ledThread;
-    ledThread.start();
+//    ledThread.start();
     MainWindow w;
     w.show();
 
