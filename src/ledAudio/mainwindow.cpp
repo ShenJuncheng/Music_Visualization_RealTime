@@ -2,6 +2,7 @@
 #include "ui_mainwindow.h"
 #include <iostream>
 #include "AudioSource.h"
+#include "WS2812B.h"
 #include <QAudioFormat>
 #include <QAudioDeviceInfo>
 #include <QAudioInput>
@@ -58,12 +59,27 @@ MainWindow::MainWindow(QWidget *parent)
 
     // Connect the data source to the series
     m_audioSource->setSeries(lineSeries);
+
+    //new adding
+    // 连接音频源的信号和槽以实时调整LED灯带
+//    connect(m_audioSource, &AudioSource::amplitudeChanged, this, &MainWindow::activeThread);
+    connect(m_audioSource, &AudioSource::amplitudeChanged, ledThread, &LEDThread::updateLEDStrip);
 }
 
 MainWindow::~MainWindow()
 {
     delete ui;
 }
+
+// new adding
+// 一个新的槽函数，根据音频信号振幅调整LED灯带
+void MainWindow::activeThread()
+{
+    ledThread->startThread();
+    cout << "LEDs started" << endl;
+}
+
+
 
 void MainWindow::onStopButtonClicked()
 {

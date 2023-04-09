@@ -30,32 +30,6 @@ void WS2812B::random_Color(void) {
     }
 }
 
-//// 彩虹轮函数，用于彩虹循环
-//ws2811_led_t Wheel(uint8_t WheelPos) {
-//    WheelPos = 255 - WheelPos;
-//    if (WheelPos < 85) {
-//        return ((255 - WheelPos * 3) << 16) | ((WheelPos * 3) << 8);
-//    } else if (WheelPos < 170) {
-//        WheelPos -= 85;
-//        return ((WheelPos * 3) << 16) | ((255 - WheelPos * 3) << 8);
-//    } else {
-//        WheelPos -= 170;
-//        return ((WheelPos * 3) << 16) | (WheelPos * 3);
-//    }
-//}
-
-//// 灯带彩虹循环
-//void WS2812B::rainbowCycle(uint8_t wait) {
-//    uint16_t i, j;
-
-//    for (j = 0; j < 256 * 5; j++) {
-//        for (i = 0; i < LED_COUNT; i++) {
-//            matrix[i] = Wheel(((i * 256 / LED_COUNT) + j) & 255);
-//        }
-//        update();
-//        usleep(wait * 1000);
-//    }
-//}
 
 // 剧院追踪模式
 void WS2812B::theaterChase(ws2811_led_t color, uint8_t wait) {

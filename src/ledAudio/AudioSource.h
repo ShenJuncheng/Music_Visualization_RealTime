@@ -19,12 +19,18 @@ public:
     explicit AudioSource(QObject *parent = 0);
     Q_INVOKABLE void setSeries(QAbstractSeries *series);
 
+signals:
+    void amplitudeChanged(double amplitude); // new signal
+
 protected:
     qint64 readData(char * data, qint64 maxSize);
     qint64 writeData(const char * data, qint64 maxSize);
 
 private:
     QXYSeries *m_series;
+
+//    // 11:50 new adding
+    double calculateAmplitude(const char *data, qint64 maxSize); // 新增方法
 };
 
 

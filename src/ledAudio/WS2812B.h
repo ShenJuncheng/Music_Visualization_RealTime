@@ -31,7 +31,7 @@
 #define STRIP_TYPE              WS2811_STRIP_GBR        // WS2812/SK6812RGB integrated chip+leds
 
 
-#define LED_COUNT               100
+#define LED_COUNT               300
 #define ARRAY_SIZE(stuff)       (sizeof(stuff) / sizeof(stuff[0]))
 class WS2812B{
 

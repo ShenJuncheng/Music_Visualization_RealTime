@@ -1,5 +1,5 @@
 #include "AudioSource.h"
-
+#include <iostream>
 #include <QtCharts/QXYSeries>
 #include <QtCharts/QAreaSeries>
 #include <QtQuick/QQuickItem>
@@ -7,6 +7,7 @@
 #include <QtCore/QtMath>
 #include <QTime>
 
+using namespace std;
 QT_CHARTS_USE_NAMESPACE
 
 Q_DECLARE_METATYPE(QAbstractSeries *)
@@ -48,6 +49,12 @@ qint64 AudioSource::writeData(const char * data, qint64 maxSize)
         for (int k = 0; k < maxSize/resolution; k++)
             points.append(QPointF(k + size, ((quint8)data[resolution * k] - 128)/128.0));
 
+        // new adding
+        // calculate Amplitude
+        double amplitude = calculateAmplitude(data, maxSize);
+        // send the signal of amplitude changed
+        emit amplitudeChanged(amplitude);
+
         m_series->replace(points);
     }
 
@@ -59,3 +66,15 @@ void AudioSource::setSeries(QAbstractSeries *series)
 {
     m_series = static_cast<QXYSeries *>(series);
 }
+
+double AudioSource::calculateAmplitude(const char *data, qint64 maxSize) {
+//    cout << maxSize << endl;
+    double sum = 0.0;
+    for (qint64 i = 0; i < maxSize; i++) {
+        sum += data[i];
+    }
+    double amplitude = sum / maxSize;
+    return amplitude;
+}
+
+
