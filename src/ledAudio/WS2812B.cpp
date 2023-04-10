@@ -60,6 +60,61 @@ void WS2812B::colorWipe(ws2811_led_t color, uint8_t wait) {
 }
 
 
+// according light count
+void WS2812B::updateLEDMode1(double amplitude)
+{
+
+    if(amplitude < 132 && amplitude > 124){
+
+        for (int i = 0; i < LED_COUNT; i++) {
+            matrix[i] = 0;
+        }
+        update();
+    }
+    else{
+        /*颜色值使用二进制移位操作（<<）分别左移 16 位（红色通道）,
+         * 8 位（绿色通道）和 0 位（蓝色通道）,
+         * 然后使用位或操作（|）将这些通道的值组合起来，形成一个完整的颜色值*/
+//        ws2811_led_t color = (int(255 * amplitude) << 16) | (int(255 * amplitude) << 8) | int(255 * amplitude);
+//        for (int i = 0; i < LED_COUNT; i++) {
+//            ws2812b->matrix[i] = color;
+//        }
+//        ws2812b->update();
+        int lit_led_count = int(100 * abs(amplitude - 128));
+        // 将前 lit_led_count 个 LED 点亮为白色，其余 LED 关闭
+        ws2811_led_t whiteColor = 0xFFFFFF;
+//        ws2811_led_t blackColor = 0x000000;
+
+        for (int i = 0; i < LED_COUNT; i++) {
+            if (i < lit_led_count) {
+                matrix[i] = whiteColor;
+            }
+        }
+        update();
+    }
+
+}
+
+void WS2812B::updateLEDMode2(double amplitude)
+{
+    int lit_leds = int(LED_COUNT * amplitude);
+
+    for (int i = 0; i < LED_COUNT; i++) {
+        if (i < lit_leds) {
+            matrix[i] = 0x00000002; // 红色
+        } else {
+            matrix[i] = 0x00000000; // 熄灭
+        }
+    }
+
+    update();
+}
+void WS2812B::updateLEDMode3(double amplitude)
+{
+
+}
+
+
 
 
 

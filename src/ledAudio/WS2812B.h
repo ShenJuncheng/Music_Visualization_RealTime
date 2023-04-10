@@ -39,6 +39,7 @@ class WS2812B{
         int dotspos[8] = { 0, 1, 2, 3, 4, 5, 6, 7 };
         ws2811_led_t dotcolors[8] =
         {
+            //0x00GGBBRR
             0x00200000,  // red
             0x00201000,  // orange
             0x00202000,  // yellow
@@ -81,6 +82,9 @@ class WS2812B{
         void theaterChase(ws2811_led_t color, uint8_t wait);
         void colorWipe(ws2811_led_t color, uint8_t wait);
         void runningLights(ws2811_led_t color, uint8_t wait);
+        void updateLEDMode1(double amplitude);
+        void updateLEDMode2(double amplitude);
+        void updateLEDMode3(double amplitude);
 };
 
 

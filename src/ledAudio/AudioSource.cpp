@@ -36,7 +36,7 @@ qint64 AudioSource::writeData(const char * data, qint64 maxSize)
         qint64 range = 3000;
         QVector<QPointF> oldPoints = m_series->pointsVector();
         QVector<QPointF> points;
-        int resolution = 4;
+        int resolution = 1;
 
         if (oldPoints.count() < range) {
             points = m_series->pointsVector();
@@ -67,14 +67,30 @@ void AudioSource::setSeries(QAbstractSeries *series)
     m_series = static_cast<QXYSeries *>(series);
 }
 
-double AudioSource::calculateAmplitude(const char *data, qint64 maxSize) {
-//    cout << maxSize << endl;
-    double sum = 0.0;
-    for (qint64 i = 0; i < maxSize; i++) {
-        sum += data[i];
-    }
-    double amplitude = sum / maxSize;
-    return amplitude;
-}
+//double AudioSource::calculateAmplitude(const char *data, qint64 maxSize) {
 
+//    double sum = 0.0;
+//    for (qint64 i = 0; i < maxSize; i++) {
+//        sum += static_cast<double>(data[i]) * static_cast<double>(data[i]);
+//    }
+//    double energy = sum / maxSize;
+//    return sqrt(energy);
+//}
+
+double AudioSource::calculateAmplitude(const char *data, qint64 maxSize) {
+    double sum = 0.0;
+    const double max_amplitude = 255.0;
+
+    for (qint64 i = 0; i < maxSize; i++) {
+        double sample = static_cast<double>(data[i]);
+        sum += sample * sample;
+    }
+    double energy = sum / maxSize;
+    double amplitude = sqrt(energy);
+
+    // 归一化振幅到 0 到 1 的范围
+    double normalized_amplitude = amplitude / max_amplitude;
+
+    return abs(normalized_amplitude - 0.4);
+}
 

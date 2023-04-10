@@ -22,7 +22,7 @@ MainWindow::MainWindow(QWidget *parent)
 
     // Set up the audio input and data source
     QAudioFormat formatAudio;
-    formatAudio.setSampleRate(900);
+    formatAudio.setSampleRate(1000);
     formatAudio.setChannelCount(1);
     formatAudio.setSampleSize(8);
     formatAudio.setCodec("audio/pcm");
