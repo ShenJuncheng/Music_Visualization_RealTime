@@ -48,7 +48,7 @@ qt项目一般也是c++项目或者c++/QML项目
 <br />
 <div align="center">
    <h1 align="center">Signapse</h1>
- <img src="https://github.com/albanjoseph/Signapse/blob/dev/images/logo.png" alt="logo" width="400" div al ign=center />
+ <img src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/logo.png" alt="logo" width="400" div al ign=center />
  </br>
  Signapse is here to help you learn and practice sign language on an embedded device you can take anywhere!
  </br>
