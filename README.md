@@ -50,7 +50,7 @@ qt项目一般也是c++项目或者c++/QML项目
    <h1 align="center">Signapse</h1>
  <img src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/logo.png" alt="logo" width="400" div al ign=center />
  </br>
- Signapse is here to help you learn and practice sign language on an embedded device you can take anywhere!
+ Through visualization processes, people can deeply and easily understand the structure of music including melody, rhythm, and harmony. It can be widely used in musical fountains and to make the beautiful urban landscape.
  </br>
  📰 🤩 As featured on: 
     <a href="https://www.hackster.io/news/signapse-aims-to-turn-a-raspberry-pi-into-an-artificially-intelligent-tutor-for-sign-language-ec1a08d0fc36"> Hackster.io</a> ,
