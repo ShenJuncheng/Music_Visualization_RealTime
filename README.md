@@ -60,6 +60,8 @@ For installation information check out our [installation guide](https://github.c
 
 # Embedded video
 [![Embedded video](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/draft/Embedded-video.gif)]
+# Embedded video
+[![[Embedded video](https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA)]
 
 # Social Media 🌐
 Keep up to date with Signapse! Find us on all our social channels:
