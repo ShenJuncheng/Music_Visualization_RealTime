@@ -35,7 +35,7 @@
     <a href="https://www.youtube.com/watch?v=wkhXxTbKkyo&ab_channel=Signapse"> Demo Video</a>!!
     <br />
     📜 Explore our 
-    <a href="https://github.com/albanjoseph/Signapse/wiki"> Wiki</a> to learn more!!
+    <a href="https://github.com/ShenJuncheng/Music_Visualization_RealTime/wiki"> Wiki</a> to learn more!!
     <br />
     🖇️ Browse the 
     <a href="https://albanjoseph.github.io/Signapse/html/annotated.html"> Developer Documentation</a>!! 
