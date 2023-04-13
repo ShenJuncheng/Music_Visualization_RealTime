@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-   <h1 align="center">Signapse</h1>
+   <h1 align="center">Music Rhythm Pickup Ambience Melody RGB Sound Control Sensing Audio Spectrum Neon LED Light Strip</h1>
  <img src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/logo.png" alt="logo" width="400" div al ign=center />
  </br>
  Through visualization processes, people can deeply and easily understand the structure of music including melody, rhythm, and harmony. It can be widely used in musical fountains and to make the beautiful urban landscape.
