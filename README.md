@@ -110,4 +110,4 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/ShenJunche
     * [Jinfeng Lyu](https://github.com/Jinfeng-Lyu)
     * [Chengkun Yang](https://github.com/YANGCHENGKUN-designer)
     * [Yiwei Zhang](https://github.com/testingforforrwhat)
-- 📫 Email: **signapse.glasgow@gmail.com**
+- 📫 Video Email and Address: **yangchengkun819@gmail.com**
