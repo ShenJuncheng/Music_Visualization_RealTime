@@ -70,8 +70,7 @@ Keep up to date with Signapse! Find us on all our social channels:
 
 <p align="center">
     🎥 the link of our social website:
-    <a href="https://www.youtube.com/@chengkunyang-py8ym/featured"> Music Rhythm Pickup Ambience</a>!!
-    <a href="[[[https://youtube.com/shorts/K81KBM_WK1A?feature=share](https://www.youtube.com/@chengkunyang-py8ym/featured)](https://www.youtube.com/channel/UC21GTfix-BhDtVlaH5RAalw)](https://www.youtube.com/@chengkunyang-py8ym/featured)"> Youtube website</a>!!
+    <a href="https://www.youtube.com/@chengkunyang-py8ym/featured"> Youtube website</a>!!
     <br />
 
 <p align="center">
