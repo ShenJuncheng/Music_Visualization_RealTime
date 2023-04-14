@@ -32,7 +32,7 @@
 
   <p align="center">
     🎥 Check out our product
-    <a href="https://www.youtube.com/watch?v=wkhXxTbKkyo&ab_channel=Signapse"> Demo Video</a>!!
+    <a href="https://youtube.com/shorts/K81KBM_WK1A?feature=share"> Music Rhythm Pickup Ambience</a>!!
     <br />
     📜 Explore our 
     <a href="https://github.com/ShenJuncheng/Music_Visualization_RealTime/wiki"> Wiki</a> to learn more!!
@@ -67,6 +67,12 @@ For installation information check out our [installation guide](https://github.c
 # Social Media 🌐
 Keep up to date with Signapse! Find us on all our social channels:
 </br>
+
+<p align="center">
+    🎥 the link of our social website:
+    <a href="https://www.youtube.com/@chengkunyang-py8ym/featured"> Music Rhythm Pickup Ambience</a>!!
+    <a href="[[[https://youtube.com/shorts/K81KBM_WK1A?feature=share](https://www.youtube.com/@chengkunyang-py8ym/featured)](https://www.youtube.com/channel/UC21GTfix-BhDtVlaH5RAalw)](https://www.youtube.com/@chengkunyang-py8ym/featured)"> Youtube website</a>!!
+    <br />
 
 <p align="center">
 <a href="https://twitter.com/GU_Signapse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="signups" height="150" width="100" /></a>·
