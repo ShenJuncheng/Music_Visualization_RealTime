@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2022.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S E:\ProjectXG\RaspberryWS2812Led\Dev\rpi_ws281x -B E:\ProjectXG\RaspberryWS2812Led\Dev\rpi_ws281x\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/ProjectXG/RaspberryWS2812Led/Dev/rpi_ws281x/cmake-build-debug

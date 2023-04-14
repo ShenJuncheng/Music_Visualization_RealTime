@@ -1,0 +1,9 @@
+libdir=C:/Program Files (x86)/rpi_ws281x/lib
+includedir=C:/Program Files (x86)/rpi_ws281x/include/ws2811
+
+Name: libws2811
+Description: Raspberry Pi WS281X Library
+Version: 1.1.0
+Requires:
+Libs: -L${libdir} -lws2811
+Cflags: -I${includedir}
