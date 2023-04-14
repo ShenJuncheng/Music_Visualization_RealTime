@@ -2,7 +2,7 @@
 
     greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-    INCLUDEPATH += rpi_ws281x
+    INCLUDEPATH += ../lib/rpi_ws281x
 
     CONFIG += c++11
 
