@@ -32,7 +32,7 @@
 
   <p align="center">
     🎥 Check out our product
-    <a href="https://youtube.com/shorts/K81KBM_WK1A?feature=share"> Music Rhythm Pickup Ambience</a>!!
+    <a href="https://youtube.com/shorts/K81KBM_WK1A?feature=share"> Music Visualization RealTime</a>!!
     <br />
     📜 Explore our 
     <a href="https://github.com/ShenJuncheng/Music_Visualization_RealTime/wiki"> Wiki</a> to learn more!!
