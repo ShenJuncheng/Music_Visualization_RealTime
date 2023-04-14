@@ -2,6 +2,7 @@
 #include "ui_mainwindow.h"
 #include <iostream>
 #include "AudioSource.h"
+#include "SetDevice.h"
 #include "WS2812B.h"
 #include <QAudioFormat>
 #include <QAudioDeviceInfo>
@@ -24,16 +25,17 @@ MainWindow::MainWindow(QWidget *parent)
     connect(ui->stopButton, &QPushButton::clicked, this, &MainWindow::onStopButtonClicked);
 
     // Set up the audio input and data source
-    QAudioFormat formatAudio;
-    formatAudio.setSampleRate(8000);
-    formatAudio.setChannelCount(1);
-    formatAudio.setSampleSize(8);
-    formatAudio.setCodec("audio/pcm");
-    formatAudio.setByteOrder(QAudioFormat::LittleEndian);
-    formatAudio.setSampleType(QAudioFormat::UnSignedInt);
+//    QAudioFormat formatAudio;
+//    formatAudio.setSampleRate(1000);
+//    formatAudio.setChannelCount(1);
+//    formatAudio.setSampleSize(8);
+//    formatAudio.setCodec("audio/pcm");
+//    formatAudio.setByteOrder(QAudioFormat::LittleEndian);
+//    formatAudio.setSampleType(QAudioFormat::UnSignedInt);
 
-    QAudioDeviceInfo inputDevices = QAudioDeviceInfo::defaultInputDevice();
-    m_audioInput = new QAudioInput(inputDevices, formatAudio, this);
+//    QAudioDeviceInfo inputDevices = QAudioDeviceInfo::defaultInputDevice();
+//    m_audioInput = new QAudioInput(inputDevices, formatAudio, this);
+    m_audioInput = m_setDevice.initializeAudioInput();
     AudioSource *m_audioSource = new AudioSource(this);
     m_audioSource->open(QIODevice::WriteOnly);
     m_audioInput->start(m_audioSource);

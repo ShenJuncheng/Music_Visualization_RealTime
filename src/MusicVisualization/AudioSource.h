@@ -1,7 +1,5 @@
 #ifndef AudioSource_H
 #define AudioSource_H
-#include <kissfft-master/kiss_fft.h>
-#include <kissfft-master/kiss_fftr.h>
 #include <QtCore/QObject>
 #include <QtCharts/QAbstractSeries>
 #include <QtCharts/QXYSeries>

@@ -48,10 +48,8 @@ qint64 AudioSource::writeData(const char * data, qint64 maxSize)
         for (int k = 0; k < maxSize/resolution; k++)
             points.append(QPointF(k + size, ((quint8)data[resolution * k] - 128)/128.0));
 
-        // new adding
         // calculate Amplitude
         double amplitude = calculateAmplitude(data, maxSize);
-//        QVector<double> amplitude = calculateSpectrum(data, maxSize);
         // send the signal of amplitude changed
         emit amplitudeChanged(amplitude);
 
@@ -73,7 +71,7 @@ double AudioSource::calculateAmplitude(const char *data, qint64 maxSize) {
     const double max_amplitude = 255.0;
 
     for (qint64 i = 0; i < maxSize; i++) {
-//     将char类型的样本数据直接转换为double类型。当char数据为无符号整数时，这会导致问题
+//     Convert the sample data of char type directly to double type. This causes problems when the char data is an unsigned integer
         double sample = static_cast<double>(static_cast<int8_t>(data[i]));
 
         sum += sample * sample;
@@ -81,7 +79,7 @@ double AudioSource::calculateAmplitude(const char *data, qint64 maxSize) {
     double energy = sum / maxSize;
     double amplitude = sqrt(energy);
 
-    // 归一化振幅到 0 到 1 的范围
+    // normalizes the amplitude to the 0 to 1 range
     double normalized_amplitude = amplitude / max_amplitude;
     return abs(normalized_amplitude);
 }

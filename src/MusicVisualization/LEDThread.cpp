@@ -21,7 +21,7 @@ void LEDThread::run()
                 break;
             }
         }
-        // 根据 m_mode 变量选择不同的模式
+        // Choose a different mode based on the m_mode variable
         switch (lightMode) {
             case 1:
                 ws2812b->updateLEDMode1(m_amplitude);

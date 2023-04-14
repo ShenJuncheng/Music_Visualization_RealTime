@@ -5,8 +5,7 @@
 #include <QAudioInput>
 #include "AudioSource.h"
 #include "LEDThread.h"
-
-
+#include "SetDevice.h"
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
 QT_END_NAMESPACE
@@ -29,5 +28,6 @@ private:
     AudioSource *audioSource;
     QAudioInput *m_audioInput;
     WS2812B *ws2812b;
+    SetDevice m_setDevice;
 };
 #endif // MAINWINDOW_H
