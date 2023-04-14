@@ -2,7 +2,7 @@
 
     greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-    INCLUDEPATH += ../lib/rpi_ws281x
+    INCLUDEPATH += $$PWD/rpi_ws281x
 
     CONFIG += c++11
 
@@ -16,12 +16,12 @@
         WS2812B.cpp \        
         main.cpp \
         mainwindow.cpp \
-        ../lib/rpi_ws281x/dma.c \
-        ../lib/rpi_ws281x/mailbox.c \
-        ../lib/rpi_ws281x/pcm.c \
-        ../lib/rpi_ws281x/pwm.c \
-        ../lib/rpi_ws281x/rpihw.c \
-        ../lib/rpi_ws281x/ws2811.c
+        rpi_ws281x/dma.c \
+        rpi_ws281x/mailbox.c \
+        rpi_ws281x/pcm.c \
+        rpi_ws281x/pwm.c \
+        rpi_ws281x/rpihw.c \
+        rpi_ws281x/ws2811.c
 
     HEADERS += \
         AudioSource.h \
@@ -29,15 +29,15 @@
     SetDevice.h \
         WS2812B.h \
         mainwindow.h \
-        ../lib/rpi_ws281x/clk.h \
-        ../lib/rpi_ws281x/dma.h \
-        ../lib/rpi_ws281x/gpio.h \
-        ../lib/rpi_ws281x/mailbox.h \
-        ../lib/rpi_ws281x/pcm.h \
-        ../lib/rpi_ws281x/pwm.h \
-        ../lib/rpi_ws281x/rpihw.h \
-        ../lib/rpi_ws281x/version.h.in \
-        ../lib/rpi_ws281x/ws2811.h
+        rpi_ws281x/clk.h \
+        rpi_ws281x/dma.h \
+        rpi_ws281x/gpio.h \
+        rpi_ws281x/mailbox.h \
+        rpi_ws281x/pcm.h \
+        rpi_ws281x/pwm.h \
+        rpi_ws281x/rpihw.h \
+        rpi_ws281x/version.h.in \
+        rpi_ws281x/ws2811.h
 
     FORMS += \
         mainwindow.ui
