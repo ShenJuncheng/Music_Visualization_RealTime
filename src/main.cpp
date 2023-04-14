@@ -8,7 +8,7 @@
 
 int main(int argc, char *argv[])
 {
-    const char *pulseServer = "unix:/run/user/0/pulse/native";
+    const char *pulseServer = "unix:/run/user/1000/pulse/native";
     setenv("PULSE_SERVER", pulseServer, 1);
 
     QApplication a(argc, argv);
