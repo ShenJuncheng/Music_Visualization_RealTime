@@ -1,70 +1,58 @@
-//
-// Created by 23194 on 2023/3/29.
-//
-//#include <iostream>
-//#include "gtest/gtest.h"
-//using namespace std;
-
-//double cube(double a) {return a*a*a;}
-//int abs(int x) {return x>0 ? x : -x;}
-//
-//TEST(cube, positive)
-//{ EXPECT_EQ(64,cube(4)); }
-//
-//TEST(IsAbsTest,JudgeTrueOrFalse)
-//{
-//    ASSERT_TRUE(abs(2)==2) <<"abs(2)=2";
-//    ASSERT_TRUE(abs(-5)==5) <<"abs(-5)=5";
-//    ASSERT_FALSE(abs(-3)==-3) <<"abs(-3)!=-3";
-//    EXPECT_EQ(abs(-3),abs(3));
-//    EXPECT_NE(abs(0),1);
-//    ASSERT_GT(abs(-5),0);
-//    ASSERT_LT(abs(4),6);
-//    ASSERT_LE(-2,abs(-3));
-//    ASSERT_GE(abs(-1),0);
-//}
-#include "gtest/gtest.h"
 #include "WS2812B.h"
+#include "gtest/gtest.h"
 
 class WS2812BTest : public ::testing::Test {
 protected:
+    WS2812B led;
+
     virtual void SetUp() {
-        // 在此处创建WS2812B对象
-        ws2812b = new WS2812B();
-        ws2812b->begin();
+        led.begin();
     }
 
     virtual void TearDown() {
-        // 在此处销毁WS2812B对象
-        ws2812b->off();
-        delete ws2812b;
+        led.off();
     }
-
-    // WS2812B对象
-    WS2812B *ws2812b;
 };
 
-TEST_F(WS2812BTest, MatrixBottomTest) {
-// 测试 matrix_bottom() 函数是否正确设置所有LED的颜色
-
-ws2812b->matrix_bottom();
-
-// 检查所有LED的颜色是否与dotcolors数组中的颜色之一匹配
+TEST_F(WS2812BTest, UpdateLEDMode2) {
+double amplitude = 0.5;
 for (int i = 0; i < LED_COUNT; i++) {
-bool found = false;
-for (int j = 0; j < sizeof(dotcolors) / sizeof(dotcolors[0]); j++) {
-if (ws2812b->matrix[i] == dotcolors[j]) {
-found = true;
-break;
+led.matrix[i] = 0x000000;
 }
-}
-EXPECT_TRUE(found);
+
+led.updateLEDMode2(amplitude);
+
+// Check that the first LED has the expected color
+int expected_brightness = 127;
+ws2811_led_t expected_color = (expected_brightness << 16) | (expected_brightness << 8) | expected_brightness;
+EXPECT_EQ(expected_color, led.matrix[0]);
+
+// Check that the other LEDs have been shifted to the right
+for (int i = 1; i < LED_COUNT; i++) {
+EXPECT_EQ(0x000000, led.matrix[i]);
 }
 }
 
+TEST_F(WS2812BTest, UpdateLEDMode3) {
+double amplitude = 0.5;
+for (int i = 0; i < LED_COUNT; i++) {
+led.matrix[i] = 0x000000;
+}
 
+led.updateLEDMode3(amplitude);
 
-int main() {
-    ::testing::InitGoogleTest();
-    return RUN_ALL_TESTS();
+// Check that the first LED has the expected color
+int expected_brightness = 127;
+ws2811_led_t expected_color = (expected_brightness << 16) | (expected_brightness << 8) | expected_brightness;
+EXPECT_EQ(expected_color, led.matrix[0]);
+
+// Check that the LEDs on the left have been shifted to the right
+for (int i = 1; i < LED_COUNT / 2; i++) {
+EXPECT_EQ(0x000000, led.matrix[i]);
+}
+
+// Check that the LEDs on the right have been shifted to the left
+for (int i = LED_COUNT / 2 + 1; i < LED_COUNT; i++) {
+EXPECT_EQ(0x000000, led.matrix[i]);
+}
 }
