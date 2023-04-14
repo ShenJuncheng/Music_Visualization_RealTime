@@ -22,7 +22,7 @@ EXPECT_EQ(audioInput->format().sampleType(), QAudioFormat::UnSignedInt);
 delete audioInput;
 }
 
-int main(int argc, char** argv) {
-    ::testing::InitGoogleTest(&argc, argv);
-    return RUN_ALL_TESTS();
-}
+//int main(int argc, char** argv) {
+//    ::testing::InitGoogleTest(&argc, argv);
+//    return RUN_ALL_TESTS();
+//}
