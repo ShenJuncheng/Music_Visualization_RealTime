@@ -1,6 +1,14 @@
-cmake_minimum_required(VERSION 3.21)
-project(test_clion)
+cmake_minimum_required(VERSION 3.0)
+project(MusicVisualization)
+set(OpenCV_DIR "../opencv_build")
 
-set(CMAKE_CXX_STANDARD 11)
+find_package(Qt5Widgets REQUIRED)
+find_package(GTest REQUIRED)
 
-add_executable(test_clion test_keyboard.cpp )
+include_directories(../src)
+
+enable_testing()
+
+add_executable(main main.cpp)
+target_link_libraries(main Qt5::Widgets gtest gtest_main WS2812B AudioSource LEDThread SetDevice)
+
