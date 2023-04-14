@@ -42,6 +42,7 @@ void LEDThread::run()
 
 void LEDThread::startThread()
 {
+    // mutex
     mutex.lock();
     terminateFlag = false;
     mutex.unlock();
