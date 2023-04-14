@@ -1,2 +1,0 @@
-D:\nosetup\mingw64\bin\ar.exe qc libws2811.a CMakeFiles/ws2811.dir/mailbox.c.obj CMakeFiles/ws2811.dir/ws2811.c.obj CMakeFiles/ws2811.dir/pwm.c.obj CMakeFiles/ws2811.dir/pcm.c.obj CMakeFiles/ws2811.dir/dma.c.obj CMakeFiles/ws2811.dir/rpihw.c.obj
-D:\nosetup\mingw64\bin\ranlib.exe libws2811.a
