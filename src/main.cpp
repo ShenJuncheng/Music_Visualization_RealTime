@@ -1,5 +1,5 @@
 #include "mainwindow.h"
-#include "../lib/rpi_ws281x/ws2811.h"
+#include "ws2811.h"
 #include <iostream>
 #include <unistd.h>
 #include "WS2812B.h"

@@ -1,0 +1,3 @@
+/home/pi/Desktop/music_Visualization_for_CMake/src/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/music_Visualization_for_CMake/src/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/music_Visualization_for_CMake/src/build/CMakeFiles/MusicVisualizationApp.dir

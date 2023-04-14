@@ -1,7 +1,7 @@
 // LEDThread.cpp
 #include "LEDThread.h"
 #include <iostream>
-#include <AudioSource.h>
+#include "AudioSource.h"
 using namespace std;
 
 LEDThread::LEDThread(QObject *parent)
