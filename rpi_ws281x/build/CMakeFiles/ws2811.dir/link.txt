@@ -1,0 +1,2 @@
+/usr/bin/ar qc libws2811.a CMakeFiles/ws2811.dir/mailbox.c.o CMakeFiles/ws2811.dir/ws2811.c.o CMakeFiles/ws2811.dir/pwm.c.o CMakeFiles/ws2811.dir/pcm.c.o CMakeFiles/ws2811.dir/dma.c.o CMakeFiles/ws2811.dir/rpihw.c.o
+/usr/bin/ranlib libws2811.a
