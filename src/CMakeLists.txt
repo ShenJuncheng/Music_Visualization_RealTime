@@ -10,6 +10,9 @@ find_package(Qt5 COMPONENTS Core Widgets Charts Multimedia REQUIRED)
 
 include_directories(/usr/local/include/ws2811)
 
+include(CTest)
+enable_testing()
+
 set(SRC
   main.cpp
   WS2812B.cpp
@@ -32,6 +35,7 @@ qt5_wrap_cpp(MOC_SRC ${HEADERS})
 qt5_wrap_ui(UI_HEADERS mainwindow.ui)
 
 add_executable(${PROJECT_NAME} ${SRC} ${MOC_SRC} ${UI_HEADERS})
+add_subdirectory(tests)
 
 target_link_libraries(${PROJECT_NAME}
   Qt5::Core
@@ -41,4 +45,3 @@ target_link_libraries(${PROJECT_NAME}
   ws2811
   m
 )
-
