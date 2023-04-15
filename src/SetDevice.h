@@ -1,17 +1,14 @@
 #ifndef SETDEVICE_H
 #define SETDEVICE_H
 
-#include <QObject>
 #include <QAudioFormat>
 #include <QAudioDeviceInfo>
 #include <QAudioInput>
 
-class SetDevice : public QObject
+class SetDevice
 {
-    Q_OBJECT
-
 public:
-    SetDevice(QObject *parent = nullptr);
+    SetDevice();
     QAudioInput *initializeAudioInput();
 
 private:

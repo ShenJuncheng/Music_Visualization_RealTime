@@ -1,6 +1,6 @@
 #include "SetDevice.h"
 
-SetDevice::SetDevice(QObject *parent) : QObject(parent)
+SetDevice::SetDevice()
 {
     // Initialize audio format here
     m_audioFormat.setSampleRate(1000);
