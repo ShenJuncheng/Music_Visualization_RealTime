@@ -1,3 +1,6 @@
+/*
+ * Created by JUNCHENG SHEN
+ * */
 #include "WS2812B.h"
 #include <gtest/gtest.h>
 
@@ -15,6 +18,7 @@ protected:
 };
 
 TEST_F(WS2812BTest, InitializeAndUpdateLEDs) {
+    // unit test 
     ASSERT_EQ(ws2812b->begin(), 0);
     ws2812b->updateLEDMode1(0.5);
     ws2812b->updateLEDMode2(0.5);
