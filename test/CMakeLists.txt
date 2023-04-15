@@ -1,14 +1,20 @@
-cmake_minimum_required(VERSION 3.0)
-project(MusicVisualization)
-set(OpenCV_DIR "../opencv_build")
+cmake_minimum_required(VERSION 3.1)
 
-find_package(Qt5Widgets REQUIRED)
+project(test)
+
 find_package(GTest REQUIRED)
+find_package(Qt5 COMPONENTS Core Widgets Charts Multimedia REQUIRED)
+include_directories(${GTEST_INCLUDE_DIRS} /usr/local/include/ws2811 ${CMAKE_CURRENT_SOURCE_DIR}/..)
 
-include_directories(../src)
+add_executable(test
+    test_AudioSource.cpp
+    test_SetDevice.cpp
+    test_WS2812B.cpp
+    ../AudioSource.cpp
+    ../SetDevice.cpp
+    ../WS2812B.cpp
+)
+target_link_libraries(test ${GTEST_BOTH_LIBRARIES} Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Multimedia ws2811 m pthread)
 
 enable_testing()
-
-add_executable(main main.cpp)
-target_link_libraries(main Qt5::Widgets gtest gtest_main WS2812B AudioSource LEDThread SetDevice)
-
+add_test(NAME all_test COMMAND test)
