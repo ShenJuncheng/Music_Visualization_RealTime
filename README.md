@@ -60,18 +60,7 @@ For installation information check out our [installation guide](https://github.c
 
 🔗[Demo Video](https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA)
 
-# Intermediate product processes 
-🔗[Intermediate product processes](https://www.youtube.com/watch?v=k5yiMBfBp4c)
-
-# installation guide 
-🔗[installation guide](https://www.youtube.com/watch?v=cDUxdskk_mE)
-
-# final product finished 
-[![final product finished](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif)](https://www.youtube.com/watch?v=WVSBW5tGGxk)
-
-🔗[final product finished](https://www.youtube.com/watch?v=WVSBW5tGGxk)
-
-
+# Related video supplements
 
 
 <p align="center">
@@ -92,7 +81,7 @@ For installation information check out our [installation guide](https://github.c
 
 <p align="center">   
     <a href="https://www.youtube.com/watch?v=k5yiMBfBp4c"> 🔗Intermediate product processes</a>
-    <a href="https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA"> 🔗installation guide</a>
+    <a href="https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA"> 🔗first product tested</a>
 </p> 
 
 
