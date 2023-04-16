@@ -80,7 +80,7 @@ For installation information check out our [installation guide](https://github.c
 </p>
 
 <p align="center">   
-    <a href="https://www.youtube.com/watch?v=WVSBW5tGGxk"> 🔗final product finished</a>
+    <a href="https://www.youtube.com/watch?v=WVSBW5tGGxk"> 🔗final product finished----</a>
     <a href="https://www.youtube.com/watch?v=cDUxdskk_mE"> 🔗installation guide</a>
 </p> 
    
@@ -91,7 +91,7 @@ For installation information check out our [installation guide](https://github.c
 </p>
 
 <p align="center">   
-    <a href="https://www.youtube.com/watch?v=k5yiMBfBp4c"> 🔗Intermediate product processes</a>
+    <a href="https://www.youtube.com/watch?v=k5yiMBfBp4c"> 🔗Intermediate product processes---</a>
     <a href="https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA"> 🔗installation guide</a>
 </p> 
 
