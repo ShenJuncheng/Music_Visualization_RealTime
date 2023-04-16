@@ -11,9 +11,9 @@
  Through visualization processes, people can deeply and easily understand the structure of music including melody, rhythm, and harmony. It can be widely used in musical fountains and to make the beautiful urban landscape.
  </br>
  📰 🤩 As featured on: 
-    <a href="https://www.hackster.io/news/signapse-aims-to-turn-a-raspberry-pi-into-an-artificially-intelligent-tutor-for-sign-language-ec1a08d0fc36"> the first step</a> ,
-    <a href="https://channel969.com/signapse-goals-to-flip-a-raspberry-pi-into-an-artificially-clever-tutor-for-signal-language/"> the second step</a> 
-   and <a href="https://hackaday.com/2022/04/30/learn-sign-language-using-machine-vision/#comments"> the final step</a>!! 🤩 📰
+    <a href="https://www.youtube.com/watch?v=cDUxdskk_mE"> the first step</a> ,
+    <a href="https://www.youtube.com/watch?v=k5yiMBfBp4c"> the second step</a> 
+   and <a href="https://www.youtube.com/watch?v=WVSBW5tGGxk"> the final step</a>!! 🤩 📰
  </br>
  </br>
 
@@ -69,8 +69,8 @@ For installation information check out our [installation guide](https://github.c
 </p>
 
 <p align="center">   
-    <a href="https://www.youtube.com/watch?v=WVSBW5tGGxk"> 🔗final product finished</a>
-    <a href="https://www.youtube.com/watch?v=cDUxdskk_mE"> 🔗installation guide</a>
+    <a href="https://www.youtube.com/watch?v=WVSBW5tGGxk"> 🔗final product finished</a>,
+    and <a href="https://www.youtube.com/watch?v=cDUxdskk_mE"> 🔗installation guide</a>
 </p> 
    
 
@@ -80,8 +80,8 @@ For installation information check out our [installation guide](https://github.c
 </p>
 
 <p align="center">   
-    <a href="https://www.youtube.com/watch?v=k5yiMBfBp4c"> 🔗Intermediate product processes</a>
-    <a href="https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA"> 🔗first product tested</a>
+    <a href="https://www.youtube.com/watch?v=k5yiMBfBp4c"> 🔗Intermediate product processes</a>,
+    and <a href="https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA"> 🔗first product tested</a>
 </p> 
 
 
