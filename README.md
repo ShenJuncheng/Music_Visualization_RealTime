@@ -55,14 +55,12 @@ Our deep learning enhanced video pipeline is able to detect when users are makin
 For installation information check out our [installation guide](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/draft/Embedded-video.gif). For a demo on how to use the application, check out our demo video below. For best results using Signapse, we reccomend keeping your hand witin the green box shown on screen and signing in a well lit environment with a plain background - this helps our AI system easily detect your hand signs. Happy Signapsing! 🥳
 
 
-# Demo Video
-[![Demo Video](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/draft/b4c7v-il3xi.gif)](https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA)
-
-the link of the video : https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA
+# Demo Video                                                              # Intermediate product processes 
+[![Demo Video](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/draft/b4c7v-il3xi.gif)](https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA)[![intermediate product processes](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/Process%20notes.gif)](https://www.youtube.com/watch?v=k5yiMBfBp4c)
 
 # Intermediate product processes 
 [![intermediate product processes](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/Process%20notes.gif)](https://www.youtube.com/watch?v=k5yiMBfBp4c)
-
+the link of the video : https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA
 # final product finished 
 [![final product finished](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif)](https://www.youtube.com/watch?v=WVSBW5tGGxk)
 
