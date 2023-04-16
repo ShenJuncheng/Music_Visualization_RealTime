@@ -74,7 +74,7 @@ For installation information check out our [installation guide](https://github.c
 
 
 Social Media 🌐
-Keep up to date with Signapse! Find us on all our social channels:
+Keep up to date with Music_Visualization_RealTime! Find us on all our social channels:
 </br>
 
 <p align="center">
