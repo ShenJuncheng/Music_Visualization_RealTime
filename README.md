@@ -56,12 +56,11 @@ For installation information check out our [installation guide](https://github.c
 
 
 # Demo Video                                                             
-[![Demo Video](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product-4.gif)](https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA)
+[![Demo Video](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/Demo%20Video%20finished%20.gif)](https://twitter.com/ilovemandheling/status/1647720095160909824)
 
-🔗[Demo Video](https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA)
+🔗[Demo Video](https://twitter.com/ilovemandheling/status/1647720095160909824)
 
 # Related video supplements
-
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=WVSBW5tGGxk" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif" alt="signups" height="150" width="230" /></a>·
