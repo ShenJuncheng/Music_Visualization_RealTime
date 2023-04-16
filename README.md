@@ -11,9 +11,9 @@
  Through visualization processes, people can deeply and easily understand the structure of music including melody, rhythm, and harmony. It can be widely used in musical fountains and to make the beautiful urban landscape.
  </br>
  📰 🤩 As featured on: 
-    <a href="https://www.hackster.io/news/signapse-aims-to-turn-a-raspberry-pi-into-an-artificially-intelligent-tutor-for-sign-language-ec1a08d0fc36"> Hackster.io</a> ,
-    <a href="https://channel969.com/signapse-goals-to-flip-a-raspberry-pi-into-an-artificially-clever-tutor-for-signal-language/"> Channel 969</a> 
-   and <a href="https://hackaday.com/2022/04/30/learn-sign-language-using-machine-vision/#comments"> Hackaday</a>!! 🤩 📰
+    <a href="https://www.hackster.io/news/signapse-aims-to-turn-a-raspberry-pi-into-an-artificially-intelligent-tutor-for-sign-language-ec1a08d0fc36"> the first step.io</a> ,
+    <a href="https://channel969.com/signapse-goals-to-flip-a-raspberry-pi-into-an-artificially-clever-tutor-for-signal-language/"> the second step</a> 
+   and <a href="https://hackaday.com/2022/04/30/learn-sign-language-using-machine-vision/#comments"> the final step</a>!! 🤩 📰
  </br>
  </br>
 
