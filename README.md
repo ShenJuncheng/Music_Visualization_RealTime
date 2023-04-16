@@ -117,11 +117,12 @@ Signapse is built using:
 - [C++ Programming Language](https://www.cplusplus.com/)
 - [Debian/Ubuntu Linux](https://www.linux.org/)
 - [Raspberry Pi](https://www.raspberrypi.org)
-- [Tensorflow](https://www.tensorflow.org/)
-- [OpenCV](https://opencv.org/)
+- [Qt](https://www.qt.io/)
+- [ALSA](https://www.linuxjournal.com/article/6735)
 - [Google Test](https://github.com/google/googletest)
 - [Doxygen](https://www.doxygen.nl/index.html)
-- [Qt](https://www.qt.io/)
+- [Git](https://git-scm.com/)
+
 
 <!-- LICENSE -->
 
