@@ -61,8 +61,8 @@ For installation information check out our [installation guide](https://github.c
 the link of the video : https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA
 
 
-# Demo Video
-[![Demo Video](https://www.facebook.com/100091873299953/videos/621374069516306/)]
+# final product finished 
+[![final product finished](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif)](https://www.youtube.com/watch?v=WVSBW5tGGxk)
 
 
 
