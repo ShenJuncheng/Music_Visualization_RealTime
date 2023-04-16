@@ -80,6 +80,7 @@ For installation information check out our [installation guide](https://github.c
 <a href="https://www.youtube.com/watch?v=WVSBW5tGGxk" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif" alt="signups" height="150" width="230" /></a>·
 <a href="https://www.youtube.com/watch?v=WVSBW5tGGxk" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif" alt="signups" height="150" width="230" /></a>·
 </p>
+
 🔗[final product finished](https://www.youtube.com/watch?v=WVSBW5tGGxk)
 
 
