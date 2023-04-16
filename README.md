@@ -80,7 +80,9 @@ For installation information check out our [installation guide](https://github.c
 </p>
 
 <p align="center">
-   🔗[final product finished](https://www.youtube.com/watch?v=WVSBW5tGGxk)--------🔗[installation guide](https://www.youtube.com/watch?v=cDUxdskk_mE)
+   
+   🔗[final product finished](https://www.youtube.com/watch?v=WVSBW5tGGxk)🔗[installation guide](https://www.youtube.com/watch?v=cDUxdskk_mE)
+
 </p>
 
 <p align="center">
