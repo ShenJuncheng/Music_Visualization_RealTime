@@ -48,13 +48,11 @@
 
 # In a Nutshell 🎵
 
-
-
-。。。。。。。。。。。
-
 **This experiment allows you to visualise the music 🎵.​**
-
+This is a device that can sense the rhythm of music and display it in the form of an LED light strip, including features such as pickup, atmosphere, melody, RGB colour control, voice control sensor, and audio spectrum. It can be presented in the form of neon lights, creating a unique visual effect.The Music Rhythm Pickup Ambient Melody RGB Sound Sensing Audio Spectrum Neon is an interactive device based on audio signals and 🔗[LED](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/ledstrip.png) strips that can be used in a variety of practical application scenarios. 
 For more information on installing the Raspberry Pi system and related software you can refer to our video link (🔗[installation guide](https://www.youtube.com/watch?v=cDUxdskk_mE)). Next you can see our experimental process in the 🔗[intermediate product processes](https://www.youtube.com/watch?v=k5yiMBfBp4c), including purchasing the equipment and debugging the code. We chose to experiment under black light (🔗[first product tested](https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA)) in order to meet our desired requirements and finally, after several experiments, we achieved our goal and recorded the whole process on video (🔗[final product finished](https://www.youtube.com/watch?v=WVSBW5tGGxk)).In the 🔗[Demo Video](https://twitter.com/ilovemandheling/status/1647720095160909824) you can see a gorgeous display of the finished product and by clicking on the link you also get a high definition video display.
+
+🔗[LED](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/ledstrip.png)
 
 
 # Demo Video                                                             
