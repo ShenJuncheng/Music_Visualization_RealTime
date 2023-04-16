@@ -1,3 +1,4 @@
 # *.c linguist-detectable=false
 # *.make linguist-detectable=false
 rpi_ws281x/* linguist-vendored
+*.make linguist-detectable=false
