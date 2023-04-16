@@ -65,8 +65,7 @@ the link of the video : https://twitter.com/ilovemandheling/status/1646591982796
 
 
 
-# Embedded video
-[![Embedded video](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/draft/Embedded-video.gif)]
+
 
 
 # Social Media 🌐
