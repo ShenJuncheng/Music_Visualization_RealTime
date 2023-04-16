@@ -1,6 +1,5 @@
 rpi_ws281x/* linguist-vendored
 rpi_ws281x/build/* linguist-vendored
-*.c linguist-detectable=false
+*.c linguist-vendored
 *.make linguist-detectable=false
 *.py linguist-detectable=false
-rpi_ws281x/*.c linguist-detectable=false
