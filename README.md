@@ -56,8 +56,7 @@ For installation information check out our [installation guide](https://github.c
 
 
 # Demo Video                                                              # Intermediate product processes 
-[![Demo Video](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/draft/b4c7v-il3xi.gif)(https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/Process%20notes.gif)](https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA)(https://www.youtube.com/watch?v=k5yiMBfBp4c)
-
+[![Demo Video](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/draft/b4c7v-il3xi.gif)](https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA)
 # Intermediate product processes 
 [![intermediate product processes](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/Process%20notes.gif)](https://www.youtube.com/watch?v=k5yiMBfBp4c)
 the link of the video : https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA
