@@ -22,9 +22,9 @@
 ![Issues](https://img.shields.io/github/issues-raw/albanjoseph/Signapse?style=for-the-badge)
 [![License](https://img.shields.io/github/license/albanjoseph/Signapse?style=for-the-badge)](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/LICENSE)
 <br />
-<a href="https://github.com/albanjoseph/Signapse/issues">Report Bug</a>
+<a href="https://github.com/ShenJuncheng/Music_Visualization_RealTime/issues">Report Bug</a>
 .
-<a href="https://github.com/albanjoseph/Signapse/issues">Request Feature</a>
+<a href="https://github.com/ShenJuncheng/Music_Visualization_RealTime/issues">Request Feature</a>
 <br />
 
 ![Build and Test](https://github.com/albanjoseph/Signapse/actions/workflows/cmake_build.yml/badge.svg?branch=dev&event=push)
