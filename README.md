@@ -64,9 +64,9 @@ the link of the video : https://twitter.com/ilovemandheling/status/1646591982796
 [![final product finished](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif)](https://www.youtube.com/watch?v=WVSBW5tGGxk)
 
 
-<p align="right"> 🔗 the link of our social website: 
-<p align="left"> 🔗 the link of our social website: # final product finished [![final product finished](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif)](https://www.youtube.com/watch?v=WVSBW5tGGxk)
- 🔗 the link of our social website: <p align="right"> 🔗 the link of our social website:
+# final product finished 
+[![final product finished](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif)&(https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif)](https://www.youtube.com/watch?v=WVSBW5tGGxk)
+
 
 
 # Social Media 🌐
