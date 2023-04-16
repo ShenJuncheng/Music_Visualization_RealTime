@@ -1,2 +1,3 @@
 *.c linguist-detectable=false
 *.make linguist-detectable=false
+rpi_ws281x/ linguist-detectable=false
