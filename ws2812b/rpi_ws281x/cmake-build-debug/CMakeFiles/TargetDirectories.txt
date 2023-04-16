@@ -1,8 +1,0 @@
-E:/ProjectXG/RaspberryWS2812Led/Dev/rpi_ws281x/cmake-build-debug/CMakeFiles/ws2811.dir
-E:/ProjectXG/RaspberryWS2812Led/Dev/rpi_ws281x/cmake-build-debug/CMakeFiles/test.dir
-E:/ProjectXG/RaspberryWS2812Led/Dev/rpi_ws281x/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/ProjectXG/RaspberryWS2812Led/Dev/rpi_ws281x/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-E:/ProjectXG/RaspberryWS2812Led/Dev/rpi_ws281x/cmake-build-debug/CMakeFiles/list_install_components.dir
-E:/ProjectXG/RaspberryWS2812Led/Dev/rpi_ws281x/cmake-build-debug/CMakeFiles/install.dir
-E:/ProjectXG/RaspberryWS2812Led/Dev/rpi_ws281x/cmake-build-debug/CMakeFiles/install/local.dir
-E:/ProjectXG/RaspberryWS2812Led/Dev/rpi_ws281x/cmake-build-debug/CMakeFiles/install/strip.dir
