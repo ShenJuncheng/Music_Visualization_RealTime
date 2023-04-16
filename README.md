@@ -46,7 +46,7 @@
 
 
 
-# In a Nutshell 🌰
+# In a Nutshell 🎵
 
 **Signapse is free open source software that helps everyday people learn sign language for free!​**
 
