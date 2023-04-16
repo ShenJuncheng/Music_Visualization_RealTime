@@ -73,6 +73,13 @@ For installation information check out our [installation guide](https://github.c
 
 
 
+
+<p align="center">
+<a href="https://twitter.com/ilovemandheling" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif" alt="signups" height="150" width="200" /></a>·
+</p>
+
+
+
 Social Media 🌐
 Keep up to date with Music_Visualization_RealTime! Find us on all our social channels:
 </br>
@@ -85,8 +92,6 @@ Keep up to date with Music_Visualization_RealTime! Find us on all our social cha
     <a href="https://www.facebook.com/profile.php?id=100091873299953"> Facebook website</a>!!
     <br />
 
-<p align="center">
-<a href="https://twitter.com/ilovemandheling" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif" alt="signups" height="150" width="100" /></a>·
 
 
 
