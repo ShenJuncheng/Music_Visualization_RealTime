@@ -86,6 +86,12 @@ Keep up to date with Music_Visualization_RealTime! Find us on all our social cha
     <br />
 
 <p align="center">
+<a href="https://twitter.com/ilovemandheling" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif" alt="signups" height="150" width="100" /></a>·
+
+
+
+
+<p align="center">
 <a href="https://twitter.com/ilovemandheling" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/Twitter.svg" alt="signups" height="150" width="100" /></a>·
 <a href="https://www.facebook.com/profile.php?id=100091873299953" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/facebook.svg" alt="signapse" height="150" width="100" /></a> ·
 <a href="https://www.youtube.com/@chengkunyang-py8ym/featured" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/youtube.svg" alt="youtube" height="150" width="100"  /></a>·
