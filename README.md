@@ -38,7 +38,7 @@
     <a href="https://github.com/ShenJuncheng/Music_Visualization_RealTime/wiki"> Wiki</a> to learn more!!
     <br />
     🖇️ Browse the 
-    <a href="https://testingforforrwhat.github.io/html/annotated.html"> Developer Documentation</a>!! 
+    <a href="https://testingforforrwhat.github.io/Music%20Rhythm/html/annotated.html"> Developer Documentation</a>!! 
   </p>
 </p>
 </div>
