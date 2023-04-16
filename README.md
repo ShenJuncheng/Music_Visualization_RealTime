@@ -56,8 +56,6 @@
 
 For more information on installing the Raspberry Pi system and related software you can refer to our video link (🔗[installation guide](https://www.youtube.com/watch?v=cDUxdskk_mE)). Next you can see our experimental process in the 🔗[intermediate product processes](https://www.youtube.com/watch?v=k5yiMBfBp4c), including purchasing the equipment and debugging the code. We chose to experiment under black light (🔗[first product tested](https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA)) in order to meet our desired requirements and finally, after several experiments, we achieved our goal and recorded the whole process on video (🔗[final product finished](https://www.youtube.com/watch?v=WVSBW5tGGxk)).
 
-🔗[final product finished](https://www.youtube.com/watch?v=WVSBW5tGGxk)
-
 
 # Demo Video                                                             
 [![Demo Video](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/Demo%20Video%20finished%20.gif)](https://twitter.com/ilovemandheling/status/1647720095160909824)
