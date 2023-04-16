@@ -77,7 +77,7 @@ Keep up to date with Signapse! Find us on all our social channels:
 
 <p align="center">
 <a href="https://twitter.com/ilovemandheling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="signups" height="150" width="100" /></a>·
-<a href="https://www.facebook.com/Signapse-125793226671815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="signapse" height="150" width="100" /></a> ·
+<a href="https://www.facebook.com/profile.php?id=100091873299953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="signapse" height="150" width="100" /></a> ·
 <!-- <a href="https://instagram.com/insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/@chengkunyang-py8ym/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="150" width="100"  /></a>·
 <a href="https://www.tiktok.com/@GU_signapse" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="tiktok" height="150" width="150" /></a> ·
