@@ -86,7 +86,7 @@ For installation information check out our [installation guide](https://github.c
    
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=k5yiMBfBp4c" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/Process%20notes1.gif" alt="signups" height="300" width="180" /></a>·
+<a href="https://www.youtube.com/watch?v=k5yiMBfBp4c" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/Process%20notes.gif" alt="signups" height="300" width="180" /></a>·
 <a href="https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product-4.gif" alt="signups" height="300" width="180" /></a>·
 </p>
 
