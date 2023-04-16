@@ -79,10 +79,8 @@ For installation information check out our [installation guide](https://github.c
 <a href="https://www.youtube.com/watch?v=k5yiMBfBp4c" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/step%20for%20our%20app%20for%20projects%20finished.gif" alt="signups" height="150" width="230" /></a>·
 </p>
 
-<p align="center">
-   
+<p align="center">   
    🔗[final product finished](https://www.youtube.com/watch?v=WVSBW5tGGxk)🔗[installation guide](https://www.youtube.com/watch?v=cDUxdskk_mE)
-
 </p>
 
 <p align="center">
