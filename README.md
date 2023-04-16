@@ -76,7 +76,7 @@ For installation information check out our [installation guide](https://github.c
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=WVSBW5tGGxk" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif" alt="signups" height="150" width="230" /></a>·
-<a href="https://www.youtube.com/watch?v=WVSBW5tGGxk" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif" alt="signups" height="150" width="230" /></a>·
+<a href="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/step%20for%20our%20app%20for%20projects.mp4.gif.gif" target="blank"><img align="center" src="https://www.youtube.com/watch?v=cDUxdskk_mE" alt="signups" height="150" width="230" /></a>·
 <a href="https://www.youtube.com/watch?v=WVSBW5tGGxk" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif" alt="signups" height="150" width="230" /></a>·
 <a href="https://www.youtube.com/watch?v=WVSBW5tGGxk" target="blank"><img align="center" src="https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif" alt="signups" height="150" width="230" /></a>·
 </p>
