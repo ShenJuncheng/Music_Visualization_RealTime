@@ -60,8 +60,7 @@ For installation information check out our [installation guide](https://github.c
 
 the link of the video : https://twitter.com/ilovemandheling/status/1646591982796525580?s=61&t=DiPPDKnMr0ZFpzdojYN8UA
 
-# Demo Video
-[![Demo Video](https://github.com/albanjoseph/Signapse/blob/main/images/thumbnail_compress.gif)](https://youtu.be/wkhXxTbKkyo "Signapse - Demo Video!")
+
 
 
 
