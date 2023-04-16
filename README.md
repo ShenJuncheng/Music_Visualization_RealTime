@@ -65,7 +65,7 @@ the link of the video : https://twitter.com/ilovemandheling/status/1646591982796
 
 
 # final product finished 
-[![final product finished](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif)&(https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif)](https://www.youtube.com/watch?v=WVSBW5tGGxk)
+[![final product finished](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif) and (https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/images/final%20product%20finished.gif)](https://www.youtube.com/watch?v=WVSBW5tGGxk)
 
 
 
