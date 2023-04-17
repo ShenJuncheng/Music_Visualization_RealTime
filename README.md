@@ -27,7 +27,7 @@
 <a href="https://github.com/ShenJuncheng/Music_Visualization_RealTime/issues">Request Feature</a>
 <br />
 
-![Build and Test](https://github.com/albanjoseph/Signapse/actions/workflows/cmake_build.yml/badge.svg?branch=dev&event=push)
+[![Build and Test](https://github.com/ShenJuncheng/Music_Visualization_RealTime/actions/workflows/cmake_build.yml/badge.svg?branch=master)](https://github.com/ShenJuncheng/Music_Visualization_RealTime/actions/workflows/cmake_build.yml)
 [![Docs](https://github.com/ShenJuncheng/Music_Visualization_RealTime/actions/workflows/docs.yml/badge.svg?branch=master)](https://github.com/ShenJuncheng/Music_Visualization_RealTime/actions/workflows/docs.yml)
 
   <p align="center">
