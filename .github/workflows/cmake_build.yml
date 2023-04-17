@@ -32,7 +32,7 @@ jobs:
 #       cmake ..
 #       make
 
-    ##Note: need to connect the light strip first and then perform unit testing
+      ##Note: need to connect the light strip first and then perform unit testing
       #cd /home/pi/Desktop/Music_Visualization_RealTime/src/build
       #ls -l
       #cd tests
