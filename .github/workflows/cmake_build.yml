@@ -24,13 +24,13 @@ jobs:
 #      run:
       
     - name: Build
-      run:
-       ls -l
-       cd src
-       mkdir build
-       cd build
-       cmake ..
-       make
+      run: ls -l; cd src; mkdir build; cd build; cmake ..; make
+#       ls -l
+#       cd src
+#       mkdir build
+#       cd build
+#       cmake ..
+#       make
 
 
 #    - name: Test
