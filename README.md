@@ -114,7 +114,7 @@ Keep up to date with Music_Visualization_RealTime! Find us on all our social cha
 </p>
 
 # Technologies ⚙️
-Signapse is built using:
+Music Rhythm is built using:
 - [C++ Programming Language](https://www.cplusplus.com/)
 - [Debian/Ubuntu Linux](https://www.linux.org/)
 - [Raspberry Pi](https://www.raspberrypi.org)
