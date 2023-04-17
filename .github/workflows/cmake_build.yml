@@ -24,7 +24,7 @@ jobs:
 #      run:
       
     - name: Build
-      run: ls -l; cd src; mkdir build; cd build; cmake ..; make
+      run: ls -l; cd src; mkdir build; cd build; cmake ..; make; sudo apt-get update; sudo apt-get install build-essential libgl1-mesa-dev
 #       ls -l
 #       cd src
 #       mkdir build
