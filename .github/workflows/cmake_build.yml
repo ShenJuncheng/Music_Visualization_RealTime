@@ -24,7 +24,7 @@ jobs:
 #      run: bash setup.sh
       
     - name: Build
-      run:  ls -l; cd src;
+      run:  ls -l; cd src; mkdir build; cd build; cmake ..; make
 
 #    - name: Test
 #      run: bash test.sh
