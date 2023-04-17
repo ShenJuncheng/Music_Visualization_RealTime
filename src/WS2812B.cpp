@@ -29,8 +29,8 @@ int WS2812B::begin() {
 }
 
 /*!
- *
- * @param m_amplitude
+ * Update LED strip with mode 2 based on the input amplitude 
+ * @param m_amplitude - the input amplitude value
  */
 void WS2812B::updateLEDMode2(double m_amplitude)
 {
@@ -62,8 +62,8 @@ void WS2812B::updateLEDMode2(double m_amplitude)
 }
 
 /*!
- *
- * @param m_amplitude
+ * Update LED strip with mode 3 based on the input amplitude
+ * @param m_amplitude - the input amplitude value
  */
 void WS2812B::updateLEDMode3(double m_amplitude)
 {
@@ -115,8 +115,8 @@ void WS2812B::updateLEDMode3(double m_amplitude)
 }
 
 /*!
- *
- * @param m_amplitude
+ * Update LED strip with mode 1 based on the input amplitude
+ * @param m_amplitude - the input amplitude value
  */
 void WS2812B::updateLEDMode1(double m_amplitude)
 {
@@ -153,9 +153,10 @@ void WS2812B::updateLEDMode1(double m_amplitude)
     update();
 }
 
-
-
-
+/*!
+ * Update the LED display status
+ * @return int - 0 on success, non-zero on failure
+ */
 int WS2812B::update() {
     /*Update LED display status*/
     int loop = 0;
@@ -172,6 +173,9 @@ int WS2812B::update() {
     return 0;
 }
 
+/*!
+ * Turn off all LEDs on the strip
+ */
 void WS2812B::off() {
     /*turn off all LEDs*/
     int loop = 0;

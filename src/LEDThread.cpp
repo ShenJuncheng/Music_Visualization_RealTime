@@ -4,18 +4,21 @@
 #include "AudioSource.h"
 using namespace std;
 
-
+// Constructor for the LEDThread class
 LEDThread::LEDThread(QObject *parent)
     : QThread(parent)
 {
     ws2812b = new WS2812B();
     ws2812b->begin();
-
 }
 
+/*!
+ * Main function for the LEDThread class, responsible for updating the LED
+ * patterns based on the current mode and amplitude.
+ */
 void LEDThread::run()
 {
-    while(true){
+    while (true) {
         {
             QMutexLocker locker(&mutex);
             if (terminateFlag) {
@@ -36,20 +39,23 @@ void LEDThread::run()
             default:
                 break;
         }
-
     }
-
 }
 
+/*!
+ * Starts the LEDThread.
+ */
 void LEDThread::startThread()
 {
-    // mutex
     mutex.lock();
     terminateFlag = false;
     mutex.unlock();
     start();
 }
 
+/*!
+ * Stops the LEDThread.
+ */
 void LEDThread::stopThread()
 {
     mutex.lock();
@@ -58,10 +64,20 @@ void LEDThread::stopThread()
     wait();
 }
 
-void LEDThread::setAmplitude(double amplitude) {
+/*!
+ * Sets the amplitude for the LEDThread.
+ * @param amplitude - the amplitude value to set
+ */
+void LEDThread::setAmplitude(double amplitude)
+{
     m_amplitude = amplitude;
 }
 
-void LEDThread::setMode(int mode) {
+/*!
+ * Sets the mode for the LEDThread.
+ * @param mode - the mode value to set
+ */
+void LEDThread::setMode(int mode)
+{
     lightMode = mode;
 }

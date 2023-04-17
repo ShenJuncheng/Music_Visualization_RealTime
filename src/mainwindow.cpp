@@ -12,6 +12,8 @@
 #include <QtCharts/QValueAxis>
 
 using namespace std;
+
+// Constructor for the MainWindow class
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
@@ -21,6 +23,7 @@ MainWindow::MainWindow(QWidget *parent)
     ws2812b = new WS2812B();
     ws2812b->begin();
 
+    // Connect the mode and stop buttons to their respective slots
     connect(ui->modeButton, &QPushButton::clicked, this, &MainWindow::onModeButtonClicked);
     connect(ui->stopButton, &QPushButton::clicked, this, &MainWindow::onStopButtonClicked);
 
@@ -64,6 +67,7 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
+// Slot for the "START" button click event
 void MainWindow::onStopButtonClicked()
 {
     if(ledThread->isRunning()){
@@ -79,6 +83,7 @@ void MainWindow::onStopButtonClicked()
     }
 }
 
+// Slot for the "MODE" button click event
 void MainWindow::onModeButtonClicked()
 {
     static int currentMode = 1;
