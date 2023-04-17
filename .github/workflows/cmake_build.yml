@@ -21,7 +21,7 @@ jobs:
     - uses: actions/checkout@v3
 
     - name: Setup
-      run: sudo apt-get update; sudo apt-get install build-essential libgl1-mesa-dev qtcreator qtdeclarative5-dev qml-module-qtquick-controls2 qtmultimedia5-dev libqt5multimedia5-plugins libqt5charts5-dev qml-module-qtquick2 qtbase5-dev;
+      run: git clone https://github.com/google/googletest; cd googletest; mkdir build; cd build; cmake ..; make; sudo make install; cd ..; cd ..; sudo apt-get update; sudo apt-get install build-essential libgl1-mesa-dev qtcreator qtdeclarative5-dev qml-module-qtquick-controls2 qtmultimedia5-dev libqt5multimedia5-plugins libqt5charts5-dev qml-module-qtquick2 qtbase5-dev;
 
     - name: Build
       run: ls -l; cd src; mkdir build; cd build; cmake ..; make
