@@ -24,7 +24,7 @@ jobs:
 #      run: bash setup.sh
       
     - name: Build
-      run: cd Desktop; git clone https://github.com/ShenJuncheng/Music_Visualization_RealTime.git; cd /home/pi/Desktop/Music_Visualization_RealTime; ls -l; cd /home/pi/Desktop/Music_Visualization_RealTime/src; mkdir build; cd build; cmake ..; make
+      run:  ls -l; cd /home/pi/Desktop/Music_Visualization_RealTime/src;
 
 #    - name: Test
 #      run: bash test.sh
