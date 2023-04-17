@@ -31,6 +31,9 @@
 [![Docs](https://github.com/ShenJuncheng/Music_Visualization_RealTime/actions/workflows/docs.yml/badge.svg?branch=master)](https://github.com/ShenJuncheng/Music_Visualization_RealTime/actions/workflows/docs.yml)
 
   <p align="center">
+    ☢️ Getting primary materials
+    <a href="https://github.com/ShenJuncheng/Music_Visualization_RealTime/wiki/2.-Installation-Guide"> Simple Installation-Guide information</a>!!
+    <br />
     🎥 Check out our product
     <a href="https://youtube.com/shorts/K81KBM_WK1A?feature=share"> Music Visualization RealTime</a>!!
     <br />
