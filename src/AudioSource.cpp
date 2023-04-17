@@ -59,13 +59,20 @@ qint64 AudioSource::writeData(const char * data, qint64 maxSize)
     return maxSize;
 }
 
-
+/*!
+ *
+ * @param *series
+ */
 void AudioSource::setSeries(QAbstractSeries *series)
 {
     m_series = static_cast<QXYSeries *>(series);
 }
 
-
+/*!
+ *
+ * @param *data
+ * @param maxSize
+ */
 double AudioSource::calculateAmplitude(const char *data, qint64 maxSize) {
     double sum = 0.0;
     const double max_amplitude = 255.0;

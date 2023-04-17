@@ -28,6 +28,10 @@ int WS2812B::begin() {
     return 0;
 }
 
+/*!
+ *
+ * @param m_amplitude
+ */
 void WS2812B::updateLEDMode2(double m_amplitude)
 {
     const int SCROLL_DELAY_MS = 10;
@@ -57,6 +61,10 @@ void WS2812B::updateLEDMode2(double m_amplitude)
     }
 }
 
+/*!
+ *
+ * @param m_amplitude
+ */
 void WS2812B::updateLEDMode3(double m_amplitude)
 {
     const int SCROLL_DELAY_MS = 10;
@@ -106,6 +114,10 @@ void WS2812B::updateLEDMode3(double m_amplitude)
     }
 }
 
+/*!
+ *
+ * @param m_amplitude
+ */
 void WS2812B::updateLEDMode1(double m_amplitude)
 {
 
