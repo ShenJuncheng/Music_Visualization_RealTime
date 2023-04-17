@@ -55,7 +55,7 @@ MainWindow::MainWindow(QWidget *parent)
     // Connect the data source to the series
     m_audioSource->setSeries(lineSeries);
 
-    // 连接音频源的信号和槽以实时调整LED灯带
+    // Connect signals and slots of audio sources to adjust LED strips in real time
     connect(m_audioSource, &AudioSource::amplitudeChanged, ledThread, &LEDThread::setAmplitude);
 }
 
@@ -82,8 +82,8 @@ void MainWindow::onStopButtonClicked()
 void MainWindow::onModeButtonClicked()
 {
     static int currentMode = 1;
-    currentMode = (currentMode % 3) + 1; // 更新当前模式，循环从 1 到 3
-    ledThread->setMode(currentMode); // 设置 LEDThread 的模式
+    currentMode = (currentMode % 3) + 1; // Update the current mode, looping from 1 to 3
+    ledThread->setMode(currentMode); // Set the mode of LEDThread
     cout << "Mode Changed to " << currentMode << endl;
 }
 
