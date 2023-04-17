@@ -23,8 +23,7 @@ jobs:
     - name: Setup
       run: sudo apt-get update; sudo apt-get install build-essential libgl1-mesa-dev; sudo apt-get install qt5-default; sudo apt-get install qtcreator; sudo apt-get install qtdeclarative5-dev; sudo apt install qml-module-qtquick-controls2; sudo apt-get install qtmultimedia5-dev; sudo apt-get install libqt5multimedia5-plugins; sudo apt-get install libqt5charts5-dev; sudo apt-get install qml-module-qtquick2 qtdeclarative5-dev; sudo apt-get install qml-module-qtquick2 qtdeclarative5-dev
 
-
-- name: Build
+    - name: Build
       run: ls -l; cd src; mkdir build; cd build; cmake ..; make
 #       ls -l
 #       cd src
