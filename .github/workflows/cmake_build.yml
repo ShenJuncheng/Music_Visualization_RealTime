@@ -20,8 +20,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-#    - name: Setup
-#      run: bash setup.sh
+    - name: Setup
+      run: sudo apt-get install qt5-default;sudo apt-get install qtcreator;sudo apt-get install qtdeclarative5-dev;sudo apt install qml-module-qtquick-controls2;
+  sudo apt-get install qtmultimedia5-dev;sudo apt-get install libqt5multimedia5-plugins;sudo apt-get install libqt5charts5-dev;sudo apt-get install qml-module-qtquick2 qtdeclarative5-dev
       
     - name: Build
       run:  ls -l; cd src; mkdir build; cd build; cmake ..; make
