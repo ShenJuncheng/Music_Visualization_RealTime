@@ -20,11 +20,11 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-#    - name: Setup
-#      run:
+    - name: Setup
+      run: sudo apt-get update; sudo apt-get install build-essential libgl1-mesa-dev
       
     - name: Build
-      run: ls -l; cd src; mkdir build; cd build; cmake ..; make; sudo apt-get update; sudo apt-get install build-essential libgl1-mesa-dev
+      run: ls -l; cd src; mkdir build; cd build; cmake ..; make
 #       ls -l
 #       cd src
 #       mkdir build
