@@ -24,7 +24,7 @@ jobs:
 #      run: bash setup.sh
       
     - name: Build
-      run:  ls -l; cd /home/pi/Desktop/Music_Visualization_RealTime/src;
+      run:  ls -l; cd src;
 
 #    - name: Test
 #      run: bash test.sh
