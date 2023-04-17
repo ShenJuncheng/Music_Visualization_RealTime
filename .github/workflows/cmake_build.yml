@@ -40,6 +40,6 @@ jobs:
       #su root
       #./tests
     - name: Test
-      run: cd src; cd build; ls -l; cd tests; cd ..
+      run: cd src; cd build; ls -l; cd tests
 
       
