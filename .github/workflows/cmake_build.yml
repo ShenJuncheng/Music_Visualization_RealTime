@@ -24,7 +24,7 @@ jobs:
       run: git clone https://github.com/google/googletest; cd googletest; mkdir build; cd build; cmake ..; make; sudo make install; cd ..; cd ..; sudo apt-get update; sudo apt-get install build-essential libgl1-mesa-dev qtcreator qtdeclarative5-dev qml-module-qtquick-controls2 qtmultimedia5-dev libqt5multimedia5-plugins libqt5charts5-dev qml-module-qtquick2 qtbase5-dev;
 
     - name: Build
-      run: ls -l; rm -rf rpi_ws281x; ls -l; git clone https://github.com/jgarff/rpi_ws281x.git; cd rpi_ws281x; mkdir build; cd build; cmake -D BUILD_SHARED=OFF ..; sudo make install; cd ..; cd ..; ls -l; cd src; mkdir build; cd build; cmake ..; make; ls -l; cd tests
+      run: ls -l; rm -rf rpi_ws281x; ls -l; git clone https://github.com/jgarff/rpi_ws281x.git; cd rpi_ws281x; mkdir build; cd build; cmake -D BUILD_SHARED=OFF ..; sudo make install; cd ..; cd ..; ls -l; cd src; mkdir build; cd build; cmake ..; make
 #       ls -l
 #       cd src
 #       mkdir build
@@ -33,7 +33,7 @@ jobs:
 #       make
 
 
-#    - name: Test
-#      run: bash test.sh
+    - name: Test
+      run: ls -l; cd tests
 
       
