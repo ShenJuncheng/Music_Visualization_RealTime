@@ -1,1 +1,1 @@
-directory for gui design
+Directory For Gui Design
