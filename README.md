@@ -17,10 +17,10 @@
  </br>
  </br>
 
-![Contributors](https://img.shields.io/github/contributors/albanjoseph/Signapse?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/albanjoseph/Signapse?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues-raw/albanjoseph/Signapse?style=for-the-badge)
-[![License](https://img.shields.io/github/license/albanjoseph/Signapse?style=for-the-badge)](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/LICENSE)
+![Contributors](https://img.shields.io/github/contributors/ShenJuncheng/Music_Visualization_RealTime?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/ShenJuncheng/Music_Visualization_RealTime?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues-raw/ShenJuncheng/Music_Visualization_RealTime?style=for-the-badge)
+[![License](https://img.shields.io/github/license/ShenJuncheng/Music_Visualization_RealTime?style=for-the-badge)](https://github.com/ShenJuncheng/Music_Visualization_RealTime/blob/master/LICENSE)
 <br />
 <a href="https://github.com/ShenJuncheng/Music_Visualization_RealTime/issues">Report Bug</a>
 .
