@@ -4,7 +4,9 @@
 #include "AudioSource.h"
 using namespace std;
 
-// Constructor for the LEDThread class
+/*!
+ * Constructor for the LEDThread class
+ */
 LEDThread::LEDThread(QObject *parent)
     : QThread(parent)
 {

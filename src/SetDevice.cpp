@@ -1,6 +1,8 @@
 #include "SetDevice.h"
 
-// Constructor for the SetDevice class
+/*!
+ * Constructor for the SetDevice class
+ */
 SetDevice::SetDevice()
 {
     // Initialize audio format settings

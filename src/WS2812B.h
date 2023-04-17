@@ -27,7 +27,9 @@
 #include <QVector>
 
 
-// The following information is used to configure ws2812b
+/*!
+ * The following information is used to configure ws2812b
+ */
 #define TARGET_FREQ             WS2811_TARGET_FREQ /*定义触发频率*/
 #define GPIO_PIN                18
 #define DMA                     10
