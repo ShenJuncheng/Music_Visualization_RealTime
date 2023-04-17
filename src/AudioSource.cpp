@@ -13,7 +13,13 @@ QT_CHARTS_USE_NAMESPACE
 Q_DECLARE_METATYPE(QAbstractSeries *)
 Q_DECLARE_METATYPE(QAbstractAxis *)
 
-// Constructor for the AudioSource class
+
+
+
+/*!
+ * Constructor for the AudioSource class
+ * @param *parent
+ */
 AudioSource::AudioSource(QObject *parent) :
     QIODevice(parent)
 {
