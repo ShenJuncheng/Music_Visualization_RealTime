@@ -132,7 +132,7 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/ShenJunche
 
 
 # Contact Us 📞
-- 🔭This project is being completed by a team of students at the University of Glasgow :
+- 🔭This project is being completed by a [team](https://github.com/ShenJuncheng/Music_Visualization_RealTime/wiki/Team-Contribution) of students at the University of Glasgow :
     * [Juncheng Shen](https://github.com/ShenJuncheng)
     * [Jinfeng Lyu](https://github.com/Jinfeng-Lyu)
     * [Chengkun Yang](https://github.com/YANGCHENGKUN-designer)
