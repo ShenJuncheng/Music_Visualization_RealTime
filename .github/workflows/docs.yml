@@ -22,10 +22,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Doxygen Action
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           # Path to Doxyfile
           doxyfile-path: "./Doxyfile" # default is ./Doxyfile
@@ -33,7 +33,7 @@ jobs:
           working-directory: "." # default is .
 
       - name: Deploy
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # Default Doxyfile build documentation to html directory.
