@@ -1,8 +1,0 @@
-/home/pi/Desktop/ws2812b/rpi_ws281x/build/CMakeFiles/install/strip.dir
-/home/pi/Desktop/ws2812b/rpi_ws281x/build/CMakeFiles/list_install_components.dir
-/home/pi/Desktop/ws2812b/rpi_ws281x/build/CMakeFiles/install/local.dir
-/home/pi/Desktop/ws2812b/rpi_ws281x/build/CMakeFiles/rebuild_cache.dir
-/home/pi/Desktop/ws2812b/rpi_ws281x/build/CMakeFiles/edit_cache.dir
-/home/pi/Desktop/ws2812b/rpi_ws281x/build/CMakeFiles/install.dir
-/home/pi/Desktop/ws2812b/rpi_ws281x/build/CMakeFiles/test.dir
-/home/pi/Desktop/ws2812b/rpi_ws281x/build/CMakeFiles/ws2811.dir
