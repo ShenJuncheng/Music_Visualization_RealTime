@@ -1,9 +1,0 @@
-libdir=/usr/local/lib/arm-linux-gnueabihf
-includedir=/usr/local/include/ws2811
-
-Name: libws2811
-Description: Raspberry Pi WS281X Library
-Version: 1.1.0
-Requires:
-Libs: -L${libdir} -lws2811
-Cflags: -I${includedir}

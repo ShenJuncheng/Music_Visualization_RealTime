@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic CMakeFiles/test.dir/main.c.o -o test  libws2811.a -lm 
